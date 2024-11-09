@@ -1,0 +1,262 @@
+﻿Charleston@@@charleston-sc
+Columbia@@@columbia-sc
+Greenville@@@greenville-sc
+Myrtle Beach@@@myrtle-beach-sc
+Spartanburg@@@spartanburg-sc
+Mauldin@@@mauldin-sc
+Rock Hill@@@rock-hill-sc
+North Charleston@@@north-charleston-sc
+Mount Pleasant@@@mount-pleasant-sc
+Florence@@@florence-sc
+Anderson@@@anderson-sc
+Sumter@@@sumter-sc
+Hilton Head Island@@@hilton-head-island-sc
+Summerville@@@summerville-sc
+Goose Creek@@@goose-creek-sc
+Greer@@@greer-sc
+Aiken@@@aiken-sc
+Bluffton@@@bluffton-sc
+Socastee@@@socastee-sc
+Carolina Forest@@@carolina-forest-sc
+Fort Mill@@@fort-mill-sc
+North Augusta@@@north-augusta-sc
+Taylors@@@taylors-sc
+Simpsonville@@@simpsonville-sc
+Lexington@@@lexington-sc
+Easley@@@easley-sc
+Greenwood@@@greenwood-sc
+Conway@@@conway-sc
+St. Andrews@@@st-andrews-sc
+Wade Hampton@@@wade-hampton-sc
+Hanahan@@@hanahan-sc
+Five Forks@@@five-forks-sc
+North Myrtle Beach@@@north-myrtle-beach-sc
+West Columbia@@@west-columbia-sc
+Clemson@@@clemson-sc
+Red Hill@@@red-hill-sc
+Berea@@@berea-sc
+Seven Oaks@@@seven-oaks-sc
+Dentsville@@@dentsville-sc
+Gantt@@@gantt-sc
+Ladson@@@ladson-sc
+Cayce@@@cayce-sc
+Lake Wylie@@@lake-wylie-sc
+Parker@@@parker-sc
+Beaufort@@@beaufort-sc
+Orangeburg@@@orangeburg-sc
+Port Royal@@@port-royal-sc
+Moncks Corner@@@moncks-corner-sc
+Gaffney@@@gaffney-sc
+Tega Cay@@@tega-cay-sc
+Oak Grove@@@oak-grove-sc
+James Island@@@james-island-sc
+Irmo@@@irmo-sc
+Forest Acres@@@forest-acres-sc
+Garden City@@@garden-city-sc
+Boiling Springs@@@boiling-springs-sc
+Newberry@@@newberry-sc
+Fountain Inn@@@fountain-inn-sc
+Red Bank@@@red-bank-sc
+Little River@@@little-river-sc
+Powdersville@@@powdersville-sc
+Murrells Inlet@@@murrells-inlet-sc
+Sangaree@@@sangaree-sc
+Laurens@@@laurens-sc
+Lugoff@@@lugoff-sc
+Woodfield@@@woodfield-sc
+Seneca@@@seneca-sc
+Litchfield Beach@@@litchfield-beach-sc
+Lancaster@@@lancaster-sc
+Georgetown@@@georgetown-sc
+York@@@york-sc
+Sans Souci@@@sans-souci-sc
+Union@@@union-sc
+Burton@@@burton-sc
+Clinton@@@clinton-sc
+Travelers Rest@@@travelers-rest-sc
+Camden@@@camden-sc
+Valley Falls@@@valley-falls-sc
+Hartsville@@@hartsville-sc
+Welcome@@@welcome-sc
+Bennettsville@@@bennettsville-sc
+Centerville@@@centerville-sc
+Forestbrook@@@forestbrook-sc
+Hardeeville@@@hardeeville-sc
+White Knoll@@@white-knoll-sc
+Homeland Park@@@homeland-park-sc
+Lake Murray Of Richland@@@lake-murray-of-richland-sc
+Clover@@@clover-sc
+Marion@@@marion-sc
+Dillon@@@dillon-sc
+Darlington@@@darlington-sc
+Lake City@@@lake-city-sc
+Laurel Bay@@@laurel-bay-sc
+Lyman@@@lyman-sc
+Piedmont@@@piedmont-sc
+Walterboro@@@walterboro-sc
+Clemson University@@@clemson-university-sc
+Belvedere@@@belvedere-sc
+Batesburg-Leesville@@@batesburg-leesville-sc
+Hollywood@@@hollywood-sc
+Chester@@@chester-sc
+Central@@@central-sc
+Cheraw@@@cheraw-sc
+Abbeville@@@abbeville-sc
+Blythewood@@@blythewood-sc
+Barnwell@@@barnwell-sc
+Baxter Village@@@baxter-village-sc
+East Camden@@@east-camden-sc
+Newport@@@newport-sc
+Edgefield@@@edgefield-sc
+Belton@@@belton-sc
+Isle Of Palms@@@isle-of-palms-sc
+Southern Shops@@@southern-shops-sc
+Brookdale@@@brookdale-sc
+Woodruff@@@woodruff-sc
+Surfside Beach@@@surfside-beach-sc
+India Hook@@@india-hook-sc
+Walhalla@@@walhalla-sc
+Mullins@@@mullins-sc
+Williamston@@@williamston-sc
+Saxon@@@saxon-sc
+Clearwater@@@clearwater-sc
+Duncan@@@duncan-sc
+Manning@@@manning-sc
+Wyboo@@@wyboo-sc
+Northlake@@@northlake-sc
+Whitney@@@whitney-sc
+Ridgeland@@@ridgeland-sc
+Honea Path@@@honea-path-sc
+Lesslie@@@lesslie-sc
+Roebuck@@@roebuck-sc
+Pendleton@@@pendleton-sc
+Arcadia@@@arcadia-sc
+Liberty@@@liberty-sc
+Pickens@@@pickens-sc
+Dalzell@@@dalzell-sc
+Golden Grove@@@golden-grove-sc
+Dunean@@@dunean-sc
+Kingstree@@@kingstree-sc
+Winnsboro@@@winnsboro-sc
+Wellford@@@wellford-sc
+Denmark@@@denmark-sc
+Saluda@@@saluda-sc
+Hilltop@@@hilltop-sc
+Arthurtown@@@arthurtown-sc
+Bamberg@@@bamberg-sc
+Gloverville@@@gloverville-sc
+Capitol View@@@capitol-view-sc
+Burnettown@@@burnettown-sc
+Keowee Key@@@keowee-key-sc
+Bishopville@@@bishopville-sc
+Mccormick@@@mccormick-sc
+Cherryvale@@@cherryvale-sc
+Williston@@@williston-sc
+Hampton@@@hampton-sc
+Inman@@@inman-sc
+Elgin@@@elgin-sc
+Lakewood@@@lakewood-sc
+Pageland@@@pageland-sc
+Allendale@@@allendale-sc
+East Gaffney@@@east-gaffney-sc
+Springdale@@@springdale-sc
+Pine Ridge@@@pine-ridge-sc
+Andrews@@@andrews-sc
+North Hartsville@@@north-hartsville-sc
+Graniteville@@@graniteville-sc
+South Congaree@@@south-congaree-sc
+Ravenel@@@ravenel-sc
+Arkwright@@@arkwright-sc
+Shell Point@@@shell-point-sc
+Loris@@@loris-sc
+Landrum@@@landrum-sc
+Estill@@@estill-sc
+New Ellenton@@@new-ellenton-sc
+Blacksburg@@@blacksburg-sc
+Ninety Six@@@ninety-six-sc
+Westminster@@@westminster-sc
+Kershaw@@@kershaw-sc
+Johnston@@@johnston-sc
+Sullivan'S Island@@@sullivans-island-sc
+St. George@@@st-george-sc
+Ben Avon@@@ben-avon-sc
+Timmonsville@@@timmonsville-sc
+Watts Mills@@@watts-mills-sc
+Pacolet@@@pacolet-sc
+Fairfax@@@fairfax-sc
+Blackville@@@blackville-sc
+Gaston@@@gaston-sc
+Winnsboro Mills@@@winnsboro-mills-sc
+St. Matthews@@@st-matthews-sc
+Eureka Mill@@@eureka-mill-sc
+Tigerville@@@tigerville-sc
+Jackson@@@jackson-sc
+Ware Shoals@@@ware-shoals-sc
+Wilkinson Heights@@@wilkinson-heights-sc
+Wedgefield@@@wedgefield-sc
+Edisto@@@edisto-sc
+Cowpens@@@cowpens-sc
+Riverview@@@riverview-sc
+Pimlico@@@pimlico-sc
+Langley@@@langley-sc
+Arial@@@arial-sc
+Kiawah Island@@@kiawah-island-sc
+Privateer@@@privateer-sc
+Varnville@@@varnville-sc
+Mccoll@@@mccoll-sc
+Seabrook Island@@@seabrook-island-sc
+Calhoun Falls@@@calhoun-falls-sc
+Slater-Marietta@@@slater-marietta-sc
+Great Falls@@@great-falls-sc
+Camp Croft@@@camp-croft-sc
+Hopkins@@@hopkins-sc
+South Sumter@@@south-sumter-sc
+Stateburg@@@stateburg-sc
+Utica@@@utica-sc
+Mayo@@@mayo-sc
+Latta@@@latta-sc
+Ridgeville@@@ridgeville-sc
+Awendaw@@@awendaw-sc
+Reidville@@@reidville-sc
+Fairforest@@@fairforest-sc
+Chapin@@@chapin-sc
+Monarch Mill@@@monarch-mill-sc
+Judson@@@judson-sc
+Whitmire@@@whitmire-sc
+Catawba@@@catawba-sc
+Conestee@@@conestee-sc
+Joanna@@@joanna-sc
+St. Stephen@@@st-stephen-sc
+Homewood@@@homewood-sc
+City View@@@city-view-sc
+Chesterfield@@@chesterfield-sc
+Seabrook@@@seabrook-sc
+Wagener@@@wagener-sc
+Cane Savannah@@@cane-savannah-sc
+Holly Hill@@@holly-hill-sc
+Pelzer@@@pelzer-sc
+Buffalo@@@buffalo-sc
+Murphys Estates@@@murphys-estates-sc
+Olympia@@@olympia-sc
+Irwin@@@irwin-sc
+Beech Island@@@beech-island-sc
+Iva@@@iva-sc
+Prosperity@@@prosperity-sc
+Six Mile@@@six-mile-sc
+Johnsonville@@@johnsonville-sc
+Meggett@@@meggett-sc
+Dovesville@@@dovesville-sc
+Branchville@@@branchville-sc
+Cottageville@@@cottageville-sc
+Dunbar@@@dunbar-sc
+West Pelzer@@@west-pelzer-sc
+Lake Secession@@@lake-secession-sc
+Pelion@@@pelion-sc
+Due West@@@due-west-sc
+Lamar@@@lamar-sc
+Pamplico@@@pamplico-sc
+Bonneau Beach@@@bonneau-beach-sc
+Oakland@@@oakland-sc
+Sandy Springs@@@sandy-springs-sc
+Folly Beach@@@folly-beach-sc
+Santee@@@santee-sc

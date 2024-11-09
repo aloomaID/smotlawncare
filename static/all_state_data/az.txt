@@ -1,0 +1,208 @@
+﻿Phoenix@@@phoenix-az
+Tucson@@@tucson-az
+Mesa@@@mesa-az
+Chandler@@@chandler-az
+Gilbert@@@gilbert-az
+Avondale@@@avondale-az
+Glendale@@@glendale-az
+Scottsdale@@@scottsdale-az
+Peoria@@@peoria-az
+Tempe@@@tempe-az
+Surprise@@@surprise-az
+Yuma@@@yuma-az
+Prescott Valley@@@prescott-valley-az
+San Tan Valley@@@san-tan-valley-az
+Goodyear@@@goodyear-az
+Buckeye@@@buckeye-az
+Flagstaff@@@flagstaff-az
+Casas Adobes@@@casas-adobes-az
+Queen Creek@@@queen-creek-az
+Maricopa@@@maricopa-az
+Lake Havasu City@@@lake-havasu-city-az
+Casa Grande@@@casa-grande-az
+Marana@@@marana-az
+Catalina Foothills@@@catalina-foothills-az
+Oro Valley@@@oro-valley-az
+Prescott@@@prescott-az
+Sierra Vista@@@sierra-vista-az
+Bullhead City@@@bullhead-city-az
+Apache Junction@@@apache-junction-az
+Sun City@@@sun-city-az
+El Mirage@@@el-mirage-az
+San Luis@@@san-luis-az
+Sahuarita@@@sahuarita-az
+Kingman@@@kingman-az
+Drexel Heights@@@drexel-heights-az
+Fortuna Foothills@@@fortuna-foothills-az
+Sun City West@@@sun-city-west-az
+Florence@@@florence-az
+Fountain Hills@@@fountain-hills-az
+Anthem@@@anthem-az
+Rio Rico@@@rio-rico-az
+Green Valley@@@green-valley-az
+Nogales@@@nogales-az
+New River@@@new-river-az
+Flowing Wells@@@flowing-wells-az
+Douglas@@@douglas-az
+Payson@@@payson-az
+Fort Mohave@@@fort-mohave-az
+Eloy@@@eloy-az
+Tanque Verde@@@tanque-verde-az
+Sierra Vista Southeast@@@sierra-vista-southeast-az
+Vail@@@vail-az
+Somerton@@@somerton-az
+Sun Lakes@@@sun-lakes-az
+Coolidge@@@coolidge-az
+Valencia West@@@valencia-west-az
+New Kingman-Butler@@@new-kingman-butler-az
+Chino Valley@@@chino-valley-az
+Paradise Valley@@@paradise-valley-az
+Verde Village@@@verde-village-az
+Tucson Estates@@@tucson-estates-az
+Cottonwood@@@cottonwood-az
+Camp Verde@@@camp-verde-az
+Show Low@@@show-low-az
+Tucson Mountains@@@tucson-mountains-az
+Saddlebrooke@@@saddlebrooke-az
+Gold Canyon@@@gold-canyon-az
+Safford@@@safford-az
+Sedona@@@sedona-az
+Corona De Tucson@@@corona-de-tucson-az
+Picture Rocks@@@picture-rocks-az
+Winslow@@@winslow-az
+Arizona City@@@arizona-city-az
+Tuba City@@@tuba-city-az
+Golden Valley@@@golden-valley-az
+Page@@@page-az
+Wickenburg@@@wickenburg-az
+Globe@@@globe-az
+Tolleson@@@tolleson-az
+Youngtown@@@youngtown-az
+Litchfield Park@@@litchfield-park-az
+Catalina@@@catalina-az
+Village Of Oak Creek@@@village-of-oak-creek-az
+Snowflake@@@snowflake-az
+Avra Valley@@@avra-valley-az
+Williamson@@@williamson-az
+Citrus Park@@@citrus-park-az
+Guadalupe@@@guadalupe-az
+Rincon Valley@@@rincon-valley-az
+Benson@@@benson-az
+Kayenta@@@kayenta-az
+Thatcher@@@thatcher-az
+Doney Park@@@doney-park-az
+Summit@@@summit-az
+Bisbee@@@bisbee-az
+Cave Creek@@@cave-creek-az
+Holbrook@@@holbrook-az
+Three Points@@@three-points-az
+South Tucson@@@south-tucson-az
+Paulden@@@paulden-az
+Eagar@@@eagar-az
+San Carlos@@@san-carlos-az
+Clarkdale@@@clarkdale-az
+Lake Montezuma@@@lake-montezuma-az
+Dewey-Humboldt@@@dewey-humboldt-az
+Whiteriver@@@whiteriver-az
+Pinetop-Lakeside@@@pinetop-lakeside-az
+Taylor@@@taylor-az
+Clifton@@@clifton-az
+Lake Of The Woods@@@lake-of-the-woods-az
+Chinle@@@chinle-az
+Avenue B And C@@@avenue-b-and-c-az
+Fort Defiance@@@fort-defiance-az
+Carefree@@@carefree-az
+Cornville@@@cornville-az
+San Manuel@@@san-manuel-az
+St. Johns@@@st-johns-az
+Red Rock@@@red-rock-az
+Oracle@@@oracle-az
+Parker@@@parker-az
+Willcox@@@willcox-az
+Williams@@@williams-az
+Mohave Valley@@@mohave-valley-az
+Ajo@@@ajo-az
+Kachina Village@@@kachina-village-az
+Cordes Lakes@@@cordes-lakes-az
+White Mountain Lake@@@white-mountain-lake-az
+Pima@@@pima-az
+Valle Vista@@@valle-vista-az
+Colorado City@@@colorado-city-az
+Wellton@@@wellton-az
+Whetstone@@@whetstone-az
+Superior@@@superior-az
+Swift Trail Junction@@@swift-trail-junction-az
+Timberline-Fernwood@@@timberline-fernwood-az
+Central Heights-Midland City@@@central-heights-midland-city-az
+Desert Hills@@@desert-hills-az
+Linden@@@linden-az
+Sacaton@@@sacaton-az
+Black Canyon City@@@black-canyon-city-az
+Star Valley@@@star-valley-az
+Rio Verde@@@rio-verde-az
+Bagdad@@@bagdad-az
+Heber-Overgaard@@@heber-overgaard-az
+Sells@@@sells-az
+Window Rock@@@window-rock-az
+Kearny@@@kearny-az
+Springerville@@@springerville-az
+Beaver Dam@@@beaver-dam-az
+Joseph City@@@joseph-city-az
+Huachuca City@@@huachuca-city-az
+Fort Valley@@@fort-valley-az
+Blackwater@@@blackwater-az
+North Fork@@@north-fork-az
+Scenic@@@scenic-az
+Kaibito@@@kaibito-az
+Kaibab Estates West@@@kaibab-estates-west-az
+Quartzsite@@@quartzsite-az
+Gila Bend@@@gila-bend-az
+Dolan Springs@@@dolan-springs-az
+Canyon Day@@@canyon-day-az
+Pirtleville@@@pirtleville-az
+Pine@@@pine-az
+Congress@@@congress-az
+First Mesa@@@first-mesa-az
+Lukachukai@@@lukachukai-az
+Spring Valley@@@spring-valley-az
+Second Mesa@@@second-mesa-az
+Peridot@@@peridot-az
+Mountain View Ranches@@@mountain-view-ranches-az
+Grand Canyon Village@@@grand-canyon-village-az
+Pinetop Country Club@@@pinetop-country-clu-az
+Cienega Springs@@@cienega-springs-az
+Lechee@@@lechee-az
+Miami@@@miami-az
+Meadview@@@meadview-az
+Tsaile@@@tsaile-az
+Centennial Park@@@centennial-park-az
+Tonto Basin@@@tonto-basin-az
+Cibecue@@@cibecue-az
+St. David@@@st-david-az
+Red Lake@@@red-lake-az
+Six Shooter Canyon@@@six-shooter-canyon-az
+Peach Springs@@@peach-springs-az
+Morenci@@@morenci-az
+Dilkon@@@dilkon-az
+Parks@@@parks-az
+Tubac@@@tubac-az
+Casa Blanca@@@casa-blanca-az
+Moenkopi@@@moenkopi-az
+Bylas@@@bylas-az
+Mescal@@@mescal-az
+Mammoth@@@mammoth-az
+Bouse@@@bouse-az
+Leupp@@@leupp-az
+Fredonia@@@fredonia-az
+Bellemont@@@bellemont-az
+Mayer@@@mayer-az
+Cactus Flats@@@cactus-flats-az
+Wagon Wheel@@@wagon-wheel-az
+Golden Shores@@@golden-shores-az
+Seven Mile@@@seven-mile-az
+Claypool@@@claypool-az
+Ak-Chin Village@@@ak-chin-village-az
+Mcnary@@@mcnary-az
+Mesa Del Caballo@@@mesa-del-caballo-az
+Shongopovi@@@shongopovi-az
+Naco@@@naco-az

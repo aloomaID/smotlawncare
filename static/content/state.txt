@@ -1,0 +1,51 @@
+﻿New York@@@NY
+California@@@CA
+Illinois@@@IL
+Florida@@@FL
+Texas@@@TX
+Pennsylvania@@@PA
+Georgia@@@GA
+District of Columbia@@@DC
+Massachusetts@@@MA
+Arizona@@@AZ
+Michigan@@@MI
+Washington@@@WA
+Minnesota@@@MN
+Colorado@@@CO
+Maryland@@@MD
+Nevada@@@NV
+Missouri@@@MO
+Oregon@@@OR
+Ohio@@@OH
+Indiana@@@IN
+North Carolina@@@NC
+Virginia@@@VA
+Wisconsin@@@WI
+Rhode Island@@@RI
+Utah@@@UT
+Tennessee@@@TN
+Kentucky@@@KY
+Oklahoma@@@OK
+Connecticut@@@CT
+Louisiana@@@LA
+Hawaii@@@HI
+Nebraska@@@NE
+New Mexico@@@NM
+Alabama@@@AL
+South Carolina@@@SC
+Iowa@@@IA
+Kansas@@@KS
+Arkansas@@@AR
+Idaho@@@ID
+Mississippi@@@MS
+New Jersey@@@NJ
+Alaska@@@AK
+New Hampshire@@@NH
+Maine@@@ME
+North Dakota@@@ND
+West Virginia@@@WV
+South Dakota@@@SD
+Delaware@@@DE
+Montana@@@MT
+Vermont@@@VT
+Wyoming@@@WY

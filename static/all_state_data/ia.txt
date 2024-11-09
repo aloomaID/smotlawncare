@@ -1,0 +1,284 @@
+﻿Des Moines@@@des-moines-ia
+Davenport@@@davenport-ia
+Cedar Rapids@@@cedar-rapids-ia
+Iowa City@@@iowa-city-ia
+Waterloo@@@waterloo-ia
+Sioux City@@@sioux-city-ia
+Dubuque@@@dubuque-ia
+West Des Moines@@@west-des-moines-ia
+Ankeny@@@ankeny-ia
+Ames@@@ames-ia
+Council Bluffs@@@council-bluffs-ia
+Urbandale@@@urbandale-ia
+Marion@@@marion-ia
+Cedar Falls@@@cedar-falls-ia
+Bettendorf@@@bettendorf-ia
+Marshalltown@@@marshalltown-ia
+Mason City@@@mason-city-ia
+Ottumwa@@@ottumwa-ia
+Fort Dodge@@@fort-dodge-ia
+Clinton@@@clinton-ia
+Burlington@@@burlington-ia
+Muscatine@@@muscatine-ia
+Waukee@@@waukee-ia
+Johnston@@@johnston-ia
+Coralville@@@coralville-ia
+North Liberty@@@north-liberty-ia
+Altoona@@@altoona-ia
+Clive@@@clive-ia
+Newton@@@newton-ia
+Indianola@@@indianola-ia
+Grimes@@@grimes-ia
+Norwalk@@@norwalk-ia
+Boone@@@boone-ia
+Oskaloosa@@@oskaloosa-ia
+Spencer@@@spencer-ia
+Storm Lake@@@storm-lake-ia
+Le Mars@@@le-mars-ia
+Pella@@@pella-ia
+Fort Madison@@@fort-madison-ia
+Waverly@@@waverly-ia
+Carroll@@@carroll-ia
+Pleasant Hill@@@pleasant-hill-ia
+Keokuk@@@keokuk-ia
+Fairfield@@@fairfield-ia
+Grinnell@@@grinnell-ia
+Mount Pleasant@@@mount-pleasant-ia
+Denison@@@denison-ia
+Sioux Center@@@sioux-center-ia
+Perry@@@perry-ia
+Webster City@@@webster-city-ia
+Decorah@@@decorah-ia
+Clear Lake@@@clear-lake-ia
+Creston@@@creston-ia
+Knoxville@@@knoxville-ia
+Charles City@@@charles-city-ia
+Washington@@@washington-ia
+Hiawatha@@@hiawatha-ia
+Bondurant@@@bondurant-ia
+Nevada@@@nevada-ia
+Atlantic@@@atlantic-ia
+Eldridge@@@eldridge-ia
+Orange City@@@orange-city-ia
+Maquoketa@@@maquoketa-ia
+Independence@@@independence-ia
+Oelwein@@@oelwein-ia
+Estherville@@@estherville-ia
+Adel@@@adel-ia
+Asbury@@@asbury-ia
+Red Oak@@@red-oak-ia
+Clarinda@@@clarinda-ia
+Sheldon@@@sheldon-ia
+Dewitt@@@dewitt-ia
+Osceola@@@osceola-ia
+Algona@@@algona-ia
+Polk City@@@polk-city-ia
+Centerville@@@centerville-ia
+Anamosa@@@anamosa-ia
+Winterset@@@winterset-ia
+Spirit Lake@@@spirit-lake-ia
+Glenwood@@@glenwood-ia
+Windsor Heights@@@windsor-heights-ia
+Iowa Falls@@@iowa-falls-ia
+Cherokee@@@cherokee-ia
+Manchester@@@manchester-ia
+Vinton@@@vinton-ia
+Sergeant Bluff@@@sergeant-bluff-ia
+Harlan@@@harlan-ia
+Shenandoah@@@shenandoah-ia
+Humboldt@@@humboldt-ia
+Le Claire@@@le-claire-ia
+Evansdale@@@evansdale-ia
+Camanche@@@camanche-ia
+Mount Vernon@@@mount-vernon-ia
+Tiffin@@@tiffin-ia
+Hampton@@@hampton-ia
+Huxley@@@huxley-ia
+Forest City@@@forest-city-ia
+Dyersville@@@dyersville-ia
+Chariton@@@chariton-ia
+Jefferson@@@jefferson-ia
+Carlisle@@@carlisle-ia
+Rock Valley@@@rock-valley-ia
+Monticello@@@monticello-ia
+Cresco@@@cresco-ia
+West Liberty@@@west-liberty-ia
+Waukon@@@waukon-ia
+Carter Lake@@@carter-lake-ia
+Albia@@@albia-ia
+Emmetsburg@@@emmetsburg-ia
+Eagle Grove@@@eagle-grove-ia
+Osage@@@osage-ia
+New Hampton@@@new-hampton-ia
+Story City@@@story-city-ia
+Robins@@@robins-ia
+Williamsburg@@@williamsburg-ia
+Milford@@@milford-ia
+West Burlington@@@west-burlington-ia
+Tipton@@@tipton-ia
+Tama@@@tama-ia
+Garner@@@garner-ia
+Solon@@@solon-ia
+Saylorville@@@saylorville-ia
+Wilton@@@wilton-ia
+Onawa@@@onawa-ia
+Park View@@@park-view-ia
+Clarion@@@clarion-ia
+Sibley@@@sibley-ia
+Fairfax@@@fairfax-ia
+Grundy Center@@@grundy-center-ia
+Madrid@@@madrid-ia
+Marengo@@@marengo-ia
+Postville@@@postville-ia
+Missouri Valley@@@missouri-valley-ia
+Hawarden@@@hawarden-ia
+Eldora@@@eldora-ia
+Bloomfield@@@bloomfield-ia
+Kalona@@@kalona-ia
+Rock Rapids@@@rock-rapids-ia
+Mitchellville@@@mitchellville-ia
+West Union@@@west-union-ia
+Center Point@@@center-point-ia
+Hudson@@@hudson-ia
+New London@@@new-london-ia
+Jesup@@@jesup-ia
+Belmond@@@belmond-ia
+Belle Plaine@@@belle-plaine-ia
+Rockwell City@@@rockwell-city-ia
+La Porte City@@@la-porte-city-ia
+Bellevue@@@bellevue-ia
+West Branch@@@west-branch-ia
+Lamoni@@@lamoni-ia
+Hull@@@hull-ia
+Atkins@@@atkins-ia
+Ely@@@ely-ia
+Peosta@@@peosta-ia
+Northwood@@@northwood-ia
+Sumner@@@sumner-ia
+Alta@@@alta-ia
+Columbus Junction@@@columbus-junction-ia
+Cascade@@@cascade-ia
+Lake Mills@@@lake-mills-ia
+Mediapolis@@@mediapolis-ia
+Toledo@@@toledo-ia
+Audubon@@@audubon-ia
+Ida Grove@@@ida-grove-ia
+Granger@@@granger-ia
+Colfax@@@colfax-ia
+Kent Estates@@@kent-estates-ia
+Lisbon@@@lisbon-ia
+Britt@@@britt-ia
+Wapello@@@wapello-ia
+Sac City@@@sac-city-ia
+Pleasantville@@@pleasantville-ia
+Walcott@@@walcott-ia
+Ogden@@@ogden-ia
+Denver@@@denver-ia
+Blue Grass@@@blue-grass-ia
+Remsen@@@remsen-ia
+Mount Ayr@@@mount-ayr-ia
+Durant@@@durant-ia
+Prairie City@@@prairie-city-ia
+Monroe@@@monroe-ia
+Sigourney@@@sigourney-ia
+Epworth@@@epworth-ia
+Parkersburg@@@parkersburg-ia
+Oakland@@@oakland-ia
+Reinbeck@@@reinbeck-ia
+Corydon@@@corydon-ia
+Dallas Center@@@dallas-center-ia
+Lake City@@@lake-city-ia
+Leon@@@leon-ia
+Moville@@@moville-ia
+Manson@@@manson-ia
+Ackley@@@ackley-ia
+Farley@@@farley-ia
+Greenfield@@@greenfield-ia
+Brooklyn@@@brooklyn-ia
+Stuart@@@stuart-ia
+State Center@@@state-center-ia
+Shell Rock@@@shell-rock-ia
+Corning@@@corning-ia
+Dysart@@@dysart-ia
+Guttenberg@@@guttenberg-ia
+Nora Springs@@@nora-springs-ia
+Guthrie Center@@@guthrie-center-ia
+Hartley@@@hartley-ia
+Monona@@@monona-ia
+Slater@@@slater-ia
+Panora@@@panora-ia
+Fairbank@@@fairbank-ia
+Logan@@@logan-ia
+Van Meter@@@van-meter-ia
+Akron@@@akron-ia
+Manning@@@manning-ia
+Nashua@@@nashua-ia
+Walford@@@walford-ia
+Holstein@@@holstein-ia
+Lenox@@@lenox-ia
+Strawberry Point@@@strawberry-point-ia
+Wellman@@@wellman-ia
+Urbana@@@urbana-ia
+Pocahontas@@@pocahontas-ia
+Kingsley@@@kingsley-ia
+Traer@@@traer-ia
+Woodbine@@@woodbine-ia
+Roland@@@roland-ia
+University Heights@@@university-heights-ia
+Alton@@@alton-ia
+Manly@@@manly-ia
+Clarksville@@@clarksville-ia
+Sanborn@@@sanborn-ia
+Bedford@@@bedford-ia
+Earlham@@@earlham-ia
+Montezuma@@@montezuma-ia
+Tripoli@@@tripoli-ia
+Laurens@@@laurens-ia
+Elkader@@@elkader-ia
+Springville@@@springville-ia
+Avoca@@@avoca-ia
+Coon Rapids@@@coon-rapids-ia
+Fruitland@@@fruitland-ia
+Hamburg@@@hamburg-ia
+Melcher-Dallas@@@melcher-dallas-ia
+Lake Park@@@lake-park-ia
+Central City@@@central-city-ia
+Dike@@@dike-ia
+Wayland@@@wayland-ia
+Dunlap@@@dunlap-ia
+New Sharon@@@new-sharon-ia
+Sloan@@@sloan-ia
+Woodward@@@woodward-ia
+Greene@@@greene-ia
+Villisca@@@villisca-ia
+Newhall@@@newhall-ia
+Fayette@@@fayette-ia
+Malvern@@@malvern-ia
+St. Ansgar@@@st-ansgar-ia
+Allison@@@allison-ia
+Swisher@@@swisher-ia
+Conrad@@@conrad-ia
+Marcus@@@marcus-ia
+George@@@george-ia
+Eddyville@@@eddyville-ia
+Lone Tree@@@lone-tree-ia
+Preston@@@preston-ia
+Gilbert@@@gilbert-ia
+Griswold@@@griswold-ia
+Palo@@@palo-ia
+Buffalo Center@@@buffalo-center-ia
+Clarence@@@clarence-ia
+Riverside@@@riverside-ia
+Fredericksburg@@@fredericksburg-ia
+Janesville@@@janesville-ia
+Sheffield@@@sheffield-ia
+Mapleton@@@mapleton-ia
+De Soto@@@de-soto-ia
+Winthrop@@@winthrop-ia
+Danville@@@danville-ia
+Winfield@@@winfield-ia
+Lawton@@@lawton-ia
+Long Grove@@@long-grove-ia
+Schleswig@@@schleswig-ia
+Underwood@@@underwood-ia
+Merrill@@@merrill-ia

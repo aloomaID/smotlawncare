@@ -1,0 +1,227 @@
+﻿Portland@@@portland-or
+Eugene@@@eugene-or
+Salem@@@salem-or
+Medford@@@medford-or
+Gresham@@@gresham-or
+Bend@@@bend-or
+Hillsboro@@@hillsboro-or
+Beaverton@@@beaverton-or
+Albany@@@albany-or
+Corvallis@@@corvallis-or
+Springfield@@@springfield-or
+Tigard@@@tigard-or
+Aloha@@@aloha-or
+Lake Oswego@@@lake-oswego-or
+Keizer@@@keizer-or
+Grants Pass@@@grants-pass-or
+Oregon City@@@oregon-city-or
+Mcminnville@@@mcminnville-or
+Redmond@@@redmond-or
+Bethany@@@bethany-or
+Tualatin@@@tualatin-or
+West Linn@@@west-linn-or
+Wilsonville@@@wilsonville-or
+Woodburn@@@woodburn-or
+Forest Grove@@@forest-grove-or
+Newberg@@@newberg-or
+Roseburg@@@roseburg-or
+Happy Valley@@@happy-valley-or
+Hayesville@@@hayesville-or
+Klamath Falls@@@klamath-falls-or
+Ashland@@@ashland-or
+Milwaukie@@@milwaukie-or
+Sherwood@@@sherwood-or
+Altamont@@@altamont-or
+Hermiston@@@hermiston-or
+Cedar Mill@@@cedar-mill-or
+Central Point@@@central-point-or
+Lebanon@@@lebanon-or
+Canby@@@canby-or
+Oak Grove@@@oak-grove-or
+Pendleton@@@pendleton-or
+Dallas@@@dallas-or
+Four Corners@@@four-corners-or
+Troutdale@@@troutdale-or
+The Dalles@@@the-dalles-or
+Coos Bay@@@coos-bay-or
+St. Helens@@@st-helens-or
+La Grande@@@la-grande-or
+Oatfield@@@oatfield-or
+Cornelius@@@cornelius-or
+Sandy@@@sandy-or
+Gladstone@@@gladstone-or
+Oak Hills@@@oak-hills-or
+Santa Clara@@@santa-clara-or
+Ontario@@@ontario-or
+Damascus@@@damascus-or
+Monmouth@@@monmouth-or
+Prineville@@@prineville-or
+Cottage Grove@@@cottage-grove-or
+Fairview@@@fairview-or
+Silverton@@@silverton-or
+Newport@@@newport-or
+North Bend@@@north-bend-or
+Astoria@@@astoria-or
+White City@@@white-city-or
+Molalla@@@molalla-or
+Baker City@@@baker-city-or
+Independence@@@independence-or
+Sweet Home@@@sweet-home-or
+Rockcreek@@@rockcreek-or
+Lincoln City@@@lincoln-city-or
+Eagle Point@@@eagle-point-or
+Bull Mountain@@@bull-mountain-or
+River Road@@@river-road-or
+Cedar Hills@@@cedar-hills-or
+Florence@@@florence-or
+West Haven-Sylvan@@@west-haven-sylvan-or
+Sutherlin@@@sutherlin-or
+Hood River@@@hood-river-or
+Stayton@@@stayton-or
+Green@@@green-or
+Jennings Lodge@@@jennings-lodge-or
+Scappoose@@@scappoose-or
+Madras@@@madras-or
+Garden Home-Whitford@@@garden-home-whitford-or
+Umatilla@@@umatilla-or
+Milton-Freewater@@@milton-freewater-or
+Seaside@@@seaside-or
+West Slope@@@west-slope-or
+Raleigh Hills@@@raleigh-hills-or
+Junction City@@@junction-city-or
+Brookings@@@brookings-or
+Talent@@@talent-or
+Warrenton@@@warrenton-or
+Deschutes River Woods@@@deschutes-river-woods-or
+Creswell@@@creswell-or
+Winston@@@winston-or
+Philomath@@@philomath-or
+Veneta@@@veneta-or
+Tillamook@@@tillamook-or
+Marlene Village@@@marlene-village-or
+King City@@@king-city-or
+Sheridan@@@sheridan-or
+Roseburg North@@@roseburg-north-or
+Crooked River Ranch@@@crooked-river-ranch-or
+Phoenix@@@phoenix-or
+Wood Village@@@wood-village-or
+Lafayette@@@lafayette-or
+Estacada@@@estacada-or
+Reedsport@@@reedsport-or
+Metzger@@@metzger-or
+Aumsville@@@aumsville-or
+Beavercreek@@@beavercreek-or
+Tri-City@@@tri-city-or
+Coquille@@@coquille-or
+Boardman@@@boardman-or
+Harrisburg@@@harrisburg-or
+Three Rivers@@@three-rivers-or
+Toledo@@@toledo-or
+Myrtle Creek@@@myrtle-creek-or
+Hubbard@@@hubbard-or
+Mount Angel@@@mount-angel-or
+Jefferson@@@jefferson-or
+Bandon@@@bandon-or
+North Plains@@@north-plains-or
+Oakridge@@@oakridge-or
+Dundee@@@dundee-or
+Redwood@@@redwood-or
+Nyssa@@@nyssa-or
+Shady Cove@@@shady-cove-or
+Eagle Crest@@@eagle-crest-or
+Jacksonville@@@jacksonville-or
+Sisters@@@sisters-or
+Sublimity@@@sublimity-or
+Millersburg@@@millersburg-or
+Burns@@@burns-or
+Myrtle Point@@@myrtle-point-or
+Dayton@@@dayton-or
+Warm Springs@@@warm-springs-or
+Gold Beach@@@gold-beach-or
+Gervais@@@gervais-or
+Odell@@@odell-or
+Lakeview@@@lakeview-or
+Lincoln Beach@@@lincoln-beach-or
+Willamina@@@willamina-or
+Bunker Hill@@@bunker-hill-or
+La Pine@@@la-pine-or
+Bay City@@@bay-city-or
+Turner@@@turner-or
+Juniper Canyon@@@juniper-canyon-or
+Stanfield@@@stanfield-or
+Vernonia@@@vernonia-or
+Mulino@@@mulino-or
+Enterprise@@@enterprise-or
+Carlton@@@carlton-or
+Clatskanie@@@clatskanie-or
+Vale@@@vale-or
+Depoe Bay@@@depoe-bay-or
+Heceta Beach@@@heceta-beach-or
+Culver@@@culver-or
+Banks@@@banks-or
+Durham@@@durham-or
+Cave Junction@@@cave-junction-or
+Rainier@@@rainier-or
+Boring@@@boring-or
+Stafford@@@stafford-or
+Irrigon@@@irrigon-or
+Harbor@@@harbor-or
+Gearhart@@@gearhart-or
+Union@@@union-or
+Keno@@@keno-or
+Brownsville@@@brownsville-or
+Mill City@@@mill-city-or
+Canyonville@@@canyonville-or
+Waldport@@@waldport-or
+Amity@@@amity-or
+Columbia City@@@columbia-city-or
+John Day@@@john-day-or
+Merlin@@@merlin-or
+Dunthorpe@@@dunthorpe-or
+Lakeside@@@lakeside-or
+Barview@@@barview-or
+Chenoweth@@@chenoweth-or
+Rogue River@@@rogue-river-or
+Warren@@@warren-or
+Hines@@@hines-or
+Falls City@@@falls-city-or
+Rose Lodge@@@rose-lodge-or
+Saunders Lake@@@saunders-lake-or
+Cascade Locks@@@cascade-locks-or
+Sunriver@@@sunriver-or
+Coburg@@@coburg-or
+Elgin@@@elgin-or
+Halsey@@@halsey-or
+Rockaway Beach@@@rockaway-beach-or
+Terrebonne@@@terrebonne-or
+Glide@@@glide-or
+New Hope@@@new-hope-or
+Pacific City@@@pacific-city-or
+Oakland@@@oakland-or
+Yamhill@@@yamhill-or
+Grand Ronde@@@grand-ronde-or
+Tangent@@@tangent-or
+Cannon Beach@@@cannon-beach-or
+Athena@@@athena-or
+Prineville Lake Acres@@@prineville-lake-acres-or
+Joseph@@@joseph-or
+Lyons@@@lyons-or
+Heppner@@@heppner-or
+Donald@@@donald-or
+Pilot Rock@@@pilot-rock-or
+Ruch@@@ruch-or
+Drain@@@drain-or
+Gold Hill@@@gold-hill-or
+Dunes City@@@dunes-city-or
+Island City@@@island-city-or
+Riddle@@@riddle-or
+Bayshore@@@bayshore-or
+Maywood Park@@@maywood-park-or
+Adair Village@@@adair-village-or
+Lowell@@@lowell-or
+Yoncalla@@@yoncalla-or
+Williams@@@williams-or
+Mission@@@mission-or
+Dexter@@@dexter-or
+Bayside Gardens@@@bayside-gardens-or
+Glasgow@@@glasgow-or

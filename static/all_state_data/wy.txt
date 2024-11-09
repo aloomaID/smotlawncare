@@ -1,0 +1,57 @@
+﻿Cheyenne@@@cheyenne-wy
+Casper@@@casper-wy
+Gillette@@@gillette-wy
+Laramie@@@laramie-wy
+Rock Springs@@@rock-springs-wy
+Sheridan@@@sheridan-wy
+Green River@@@green-river-wy
+Evanston@@@evanston-wy
+Jackson@@@jackson-wy
+Riverton@@@riverton-wy
+Cody@@@cody-wy
+Rawlins@@@rawlins-wy
+Lander@@@lander-wy
+Powell@@@powell-wy
+Douglas@@@douglas-wy
+Torrington@@@torrington-wy
+Ranchettes@@@ranchettes-wy
+Worland@@@worland-wy
+Buffalo@@@buffalo-wy
+South Greeley@@@south-greeley-wy
+Fox Farm-College@@@fox-farm-college-wy
+Mills@@@mills-wy
+Wheatland@@@wheatland-wy
+Newcastle@@@newcastle-wy
+Glenrock@@@glenrock-wy
+Bar Nunn@@@bar-nunn-wy
+Warren Afb@@@warren-af-wy
+Thermopolis@@@thermopolis-wy
+Evansville@@@evansville-wy
+Kemmerer@@@kemmerer-wy
+North Rock Springs@@@north-rock-springs-wy
+Hoback@@@hoback-wy
+Greybull@@@greybull-wy
+Afton@@@afton-wy
+Lovell@@@lovell-wy
+Star Valley Ranch@@@star-valley-ranch-wy
+Pinedale@@@pinedale-wy
+South Park@@@south-park-wy
+Wright@@@wright-wy
+Lyman@@@lyman-wy
+Saratoga@@@saratoga-wy
+Arapahoe@@@arapahoe-wy
+Fort Washakie@@@fort-washakie-wy
+Lusk@@@lusk-wy
+Ethete@@@ethete-wy
+Wilson@@@wilson-wy
+Sundance@@@sundance-wy
+Basin@@@basin-wy
+Pine Bluffs@@@pine-bluffs-wy
+Grover@@@grover-wy
+Ranchester@@@ranchester-wy
+Marbleton@@@marbleton-wy
+Sleepy Hollow@@@sleepy-hollow-wy
+Rafter J Ranch@@@rafter-j-ranch-wy
+Moose Wilson Road@@@moose-wilson-road-wy
+Upton@@@upton-wy
+Guernsey@@@guernsey-wy

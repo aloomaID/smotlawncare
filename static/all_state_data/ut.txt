@@ -1,0 +1,174 @@
+﻿Salt Lake City@@@salt-lake-city-ut
+Ogden@@@ogden-ut
+Provo@@@provo-ut
+West Valley City@@@west-valley-city-ut
+St. George@@@st-george-ut
+West Jordan@@@west-jordan-ut
+Logan@@@logan-ut
+Orem@@@orem-ut
+Sandy@@@sandy-ut
+Layton@@@layton-ut
+South Jordan@@@south-jordan-ut
+Lehi@@@lehi-ut
+Millcreek@@@millcreek-ut
+Taylorsville@@@taylorsville-ut
+Herriman@@@herriman-ut
+Murray@@@murray-ut
+Draper@@@draper-ut
+Bountiful@@@bountiful-ut
+Riverton@@@riverton-ut
+Eagle Mountain@@@eagle-mountain-ut
+Spanish Fork@@@spanish-fork-ut
+Roy@@@roy-ut
+Pleasant Grove@@@pleasant-grove-ut
+Saratoga Springs@@@saratoga-springs-ut
+Kearns@@@kearns-ut
+Midvale@@@midvale-ut
+Tooele@@@tooele-ut
+Springville@@@springville-ut
+Cedar City@@@cedar-city-ut
+Cottonwood Heights@@@cottonwood-heights-ut
+American Fork@@@american-fork-ut
+Kaysville@@@kaysville-ut
+Clearfield@@@clearfield-ut
+Holladay@@@holladay-ut
+Syracuse@@@syracuse-ut
+Magna@@@magna-ut
+Washington@@@washington-ut
+South Salt Lake@@@south-salt-lake-ut
+Farmington@@@farmington-ut
+Clinton@@@clinton-ut
+North Salt Lake@@@north-salt-lake-ut
+Payson@@@payson-ut
+North Ogden@@@north-ogden-ut
+Hurricane@@@hurricane-ut
+Brigham City@@@brigham-city-ut
+Highland@@@highland-ut
+South Ogden@@@south-ogden-ut
+West Haven@@@west-haven-ut
+Centerville@@@centerville-ut
+Bluffdale@@@bluffdale-ut
+Heber@@@heber-ut
+Santaquin@@@santaquin-ut
+Smithfield@@@smithfield-ut
+Grantsville@@@grantsville-ut
+Vineyard@@@vineyard-ut
+Woods Cross@@@woods-cross-ut
+Lindon@@@lindon-ut
+Mapleton@@@mapleton-ut
+West Point@@@west-point-ut
+Pleasant View@@@pleasant-view-ut
+North Logan@@@north-logan-ut
+Alpine@@@alpine-ut
+Vernal@@@vernal-ut
+Cedar Hills@@@cedar-hills-ut
+Stansbury Park@@@stansbury-park-ut
+Tremonton@@@tremonton-ut
+Hyrum@@@hyrum-ut
+Riverdale@@@riverdale-ut
+Washington Terrace@@@washington-terrace-ut
+Salem@@@salem-ut
+Hooper@@@hooper-ut
+Ivins@@@ivins-ut
+Summit Park@@@summit-park-ut
+Park City@@@park-city-ut
+Providence@@@providence-ut
+Price@@@price-ut
+Richfield@@@richfield-ut
+South Weber@@@south-weber-ut
+Plain City@@@plain-city-ut
+Farr West@@@farr-west-ut
+Santa Clara@@@santa-clara-ut
+Enoch@@@enoch-ut
+Nibley@@@nibley-ut
+Harrisville@@@harrisville-ut
+Roosevelt@@@roosevelt-ut
+Nephi@@@nephi-ut
+Fruit Heights@@@fruit-heights-ut
+Snyderville@@@snyderville-ut
+Midway@@@midway-ut
+West Bountiful@@@west-bountiful-ut
+Ephraim@@@ephraim-ut
+White City@@@white-city-ut
+Sunset@@@sunset-ut
+Perry@@@perry-ut
+Moab@@@moa-ut
+Hyde Park@@@hyde-park-ut
+Kanab@@@kana-ut
+Elk Ridge@@@elk-ridge-ut
+La Verkin@@@la-verkin-ut
+Maeser@@@maeser-ut
+Morgan@@@morgan-ut
+Wellsville@@@wellsville-ut
+Mountain Green@@@mountain-green-ut
+Gunnison@@@gunnison-ut
+Mount Pleasant@@@mount-pleasant-ut
+Delta@@@delta-ut
+Manti@@@manti-ut
+Beaver@@@beaver-ut
+Blanding@@@blanding-ut
+East Basin@@@east-basin-ut
+Erda@@@erda-ut
+Naples@@@naples-ut
+Parowan@@@parowan-ut
+Richmond@@@richmond-ut
+Kamas@@@kamas-ut
+Garland@@@garland-ut
+Helper@@@helper-ut
+Fillmore@@@fillmore-ut
+Monroe@@@monroe-ut
+Salina@@@salina-ut
+Monticello@@@monticello-ut
+River Heights@@@river-heights-ut
+Coalville@@@coalville-ut
+Wolf Creek@@@wolf-creek-ut
+Lewiston@@@lewiston-ut
+Benson@@@benson-ut
+Duchesne@@@duchesne-ut
+Huntington@@@huntington-ut
+Marriott-Slaterville@@@marriott-slaterville-ut
+Milford@@@milford-ut
+Mona@@@mona-ut
+Millville@@@millville-ut
+Toquerville@@@toquerville-ut
+Willard@@@willard-ut
+Emigration Canyon@@@emigration-canyon-ut
+Genola@@@genola-ut
+Honeyville@@@honeyville-ut
+Panguitch@@@panguitch-ut
+Oakley@@@oakley-ut
+Woodland Hills@@@woodland-hills-ut
+South Willard@@@south-willard-ut
+Enterprise@@@enterprise-ut
+Ferron@@@ferron-ut
+Ballard@@@ballard-ut
+Elwood@@@elwood-ut
+Francis@@@francis-ut
+Wellington@@@wellington-ut
+Silver Summit@@@silver-summit-ut
+Riverside@@@riverside-ut
+Uintah@@@uintah-ut
+West Mountain@@@west-mountain-ut
+Fairview@@@fairview-ut
+Liberty@@@liberty-ut
+Castle Dale@@@castle-dale-ut
+Mendon@@@mendon-ut
+Moroni@@@moroni-ut
+Hideout@@@hideout-ut
+Centerfield@@@centerfield-ut
+Daniel@@@daniel-ut
+Wendover@@@wendover-ut
+Fountain Green@@@fountain-green-ut
+Lake Shore@@@lake-shore-ut
+Thatcher@@@thatcher-ut
+Mantua@@@mantua-ut
+Orangeville@@@orangeville-ut
+Spring City@@@spring-city-ut
+Hildale@@@hildale-ut
+West Wood@@@west-wood-ut
+Apple Valley@@@apple-valley-ut
+Copperton@@@copperton-ut
+Carbonville@@@carbonville-ut
+Spring Glen@@@spring-glen-ut
+Stockton@@@stockton-ut
+Benjamin@@@benjamin-ut

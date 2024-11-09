@@ -1,0 +1,133 @@
+﻿Bridgeport@@@bridgeport-ct
+Hartford@@@hartford-ct
+New Haven@@@new-haven-ct
+Norwich@@@norwich-ct
+Waterbury@@@waterbury-ct
+Danbury@@@danbury-ct
+Stamford@@@stamford-ct
+Norwalk@@@norwalk-ct
+New Britain@@@new-britain-ct
+Meriden@@@meriden-ct
+Bristol@@@bristol-ct
+West Haven@@@west-haven-ct
+Milford City @@@milford-city--ct
+Middletown@@@middletown-ct
+Shelton@@@shelton-ct
+Torrington@@@torrington-ct
+Naugatuck@@@naugatuck-ct
+New London@@@new-london-ct
+Wallingford Center@@@wallingford-center-ct
+Ansonia@@@ansonia-ct
+Willimantic@@@willimantic-ct
+Storrs@@@storrs-ct
+Derby@@@derby-ct
+Trumbull Center@@@trumbull-center-ct
+Kensington@@@kensington-ct
+Oakville@@@oakville-ct
+Conning Towers Nautilus Park@@@conning-towers-nautilus-park-ct
+Sandy Hook@@@sandy-hook-ct
+Riverside@@@riverside-ct
+Long Hill@@@long-hill-ct
+Glastonbury Center@@@glastonbury-center-ct
+Thompsonville@@@thompsonville-ct
+Southwood Acres@@@southwood-acres-ct
+Rockville@@@rockville-ct
+New Canaan@@@new-canaan-ct
+Staples@@@staples-ct
+Cos Cob@@@cos-co-ct
+Old Greenwich@@@old-greenwich-ct
+Winsted@@@winsted-ct
+Northford@@@northford-ct
+Simsbury Center@@@simsbury-center-ct
+Hazardville@@@hazardville-ct
+Cheshire Village@@@cheshire-village-ct
+Branford Center@@@branford-center-ct
+Daniels Farm@@@daniels-farm-ct
+Sherwood Manor@@@sherwood-manor-ct
+Noroton@@@noroton-ct
+Pawcatuck@@@pawcatuck-ct
+Lake Pocotopaug@@@lake-pocotopaug-ct
+Terryville@@@terryville-ct
+Byram@@@byram-ct
+Long Hill@@@long-hill-ct
+Quinnipiac University@@@quinnipiac-university-ct
+Stafford Springs@@@stafford-springs-ct
+Mystic@@@mystic-ct
+East Village@@@east-village-ct
+Heritage Village@@@heritage-village-ct
+Danielson@@@danielson-ct
+Broad Brook@@@broad-brook-ct
+Oronoque@@@oronoque-ct
+Collinsville@@@collinsville-ct
+Coleytown@@@coleytown-ct
+Tashua@@@tashua-ct
+Old Mystic@@@old-mystic-ct
+Jewett City@@@jewett-city-ct
+Compo@@@compo-ct
+Stepney@@@stepney-ct
+Pemberwick@@@pemberwick-ct
+Moosup@@@moosup-ct
+Niantic@@@niantic-ct
+Northwest Harwinton@@@northwest-harwinton-ct
+Lordship@@@lordship-ct
+Old Hill@@@old-hill-ct
+West Simsbury@@@west-simsbury-ct
+Glenville@@@glenville-ct
+Saugatuck@@@saugatuck-ct
+Greens Farms@@@greens-farms-ct
+Fairfield University@@@fairfield-university-ct
+Deep River Center@@@deep-river-center-ct
+Essex Village@@@essex-village-ct
+Westport Village@@@westport-village-ct
+Noroton Heights@@@noroton-heights-ct
+Blue Hills@@@blue-hills-ct
+Tokeneke@@@tokeneke-ct
+Ball Pond@@@ball-pond-ct
+Guilford Center@@@guilford-center-ct
+Oxoboxo River@@@oxoboxo-river-ct
+Crystal Lake@@@crystal-lake-ct
+Ridgebury@@@ridgebury-ct
+Westbrook Center@@@westbrook-center-ct
+Salmon Brook@@@salmon-brook-ct
+Weatogue@@@weatogue-ct
+East Brooklyn@@@east-brooklyn-ct
+Coventry Lake@@@coventry-lake-ct
+Old Saybrook Center@@@old-saybrook-center-ct
+Wilton Center@@@wilton-center-ct
+Plainfield Village@@@plainfield-village-ct
+Plantsville@@@plantsville-ct
+Suffield Depot@@@suffield-depot-ct
+Bethlehem Village@@@bethlehem-village-ct
+Higganum@@@higganum-ct
+Mill Plain@@@mill-plain-ct
+Stratford Downtown@@@stratford-downtown-ct
+Southport@@@southport-ct
+Tariffville@@@tariffville-ct
+Madison Center@@@madison-center-ct
+Moodus@@@moodus-ct
+Chester Center@@@chester-center-ct
+Woodmont@@@woodmont-ct
+Poquonock Bridge@@@poquonock-bridge-ct
+South Coventry@@@south-coventry-ct
+South Windham@@@south-windham-ct
+Georgetown@@@georgetown-ct
+Lakes East@@@lakes-east-ct
+South Woodstock@@@south-woodstock-ct
+Poplar Plains@@@poplar-plains-ct
+Canton Valley@@@canton-valley-ct
+Woodbury Center@@@woodbury-center-ct
+Lakes West@@@lakes-west-ct
+Noank@@@noank-ct
+Wauregan@@@wauregan-ct
+Mansfield Center@@@mansfield-center-ct
+South Wilton@@@south-wilton-ct
+North Granby@@@north-granby-ct
+Baltic@@@baltic-ct
+Canaan@@@canaan-ct
+Quinebaug@@@quinebaug-ct
+Sacred Heart University@@@sacred-heart-university-ct
+Saybrook Manor@@@saybrook-manor-ct
+North Grosvenor Dale@@@north-grosvenor-dale-ct
+Darien Downtown@@@darien-downtown-ct
+Inglenook@@@inglenook-ct
+New Hartford Center@@@new-hartford-center-ct

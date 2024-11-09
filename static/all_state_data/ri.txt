@@ -1,0 +1,23 @@
+﻿Providence@@@providence-ri
+Warwick@@@warwick-ri
+Cranston@@@cranston-ri
+Pawtucket@@@pawtucket-ri
+East Providence@@@east-providence-ri
+Woonsocket@@@woonsocket-ri
+Newport@@@newport-ri
+Central Falls@@@central-falls-ri
+Valley Falls@@@valley-falls-ri
+Newport East@@@newport-east-ri
+Greenville@@@greenville-ri
+Cumberland Hill@@@cumberland-hill-ri
+Kingston@@@kingston-ri
+Pascoag@@@pascoag-ri
+Narragansett Pier@@@narragansett-pier-ri
+Melville@@@melville-ri
+Hope Valley@@@hope-valley-ri
+Chepachet@@@chepachet-ri
+Ashaway@@@ashaway-ri
+Harmony@@@harmony-ri
+Harrisville@@@harrisville-ri
+Bradford@@@bradford-ri
+Greene@@@greene-ri

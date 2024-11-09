@@ -1,0 +1,53 @@
+﻿Dover@@@dover-de
+Wilmington@@@wilmington-de
+Newark@@@newark-de
+Middletown@@@middletown-de
+Bear@@@bear-de
+Glasgow@@@glasgow-de
+Brookside@@@brookside-de
+Hockessin@@@hockessin-de
+Smyrna@@@smyrna-de
+Pike Creek Valley@@@pike-creek-valley-de
+Milford@@@milford-de
+Claymont@@@claymont-de
+Wilmington Manor@@@wilmington-manor-de
+North Star@@@north-star-de
+Seaford@@@seaford-de
+Pike Creek@@@pike-creek-de
+Georgetown@@@georgetown-de
+Edgemoor@@@edgemoor-de
+Millsboro@@@millsboro-de
+Elsmere@@@elsmere-de
+New Castle@@@new-castle-de
+Highland Acres@@@highland-acres-de
+Laurel@@@laurel-de
+Clayton@@@clayton-de
+Camden@@@camden-de
+Rising Sun-Lebanon@@@rising-sun-lebanon-de
+Harrington@@@harrington-de
+Lewes@@@lewes-de
+Milton@@@milton-de
+Dover Base Housing@@@dover-base-housing-de
+Long Neck@@@long-neck-de
+Selbyville@@@selbyville-de
+Greenville@@@greenville-de
+Townsend@@@townsend-de
+Ocean View@@@ocean-view-de
+Bridgeville@@@bridgeville-de
+Delmar@@@delmar-de
+Riverview@@@riverview-de
+Delaware City@@@delaware-city-de
+Woodside East@@@woodside-east-de
+Millville@@@millville-de
+Kent Acres@@@kent-acres-de
+Cheswold@@@cheswold-de
+Wyoming@@@wyoming-de
+Rodney Village@@@rodney-village-de
+Greenwood@@@greenwood-de
+Rehoboth Beach@@@rehoboth-beach-de
+Bellefonte@@@bellefonte-de
+Newport@@@newport-de
+St. Georges@@@st-georges-de
+Felton@@@felton-de
+Frankford@@@frankford-de
+Dagsboro@@@dagsboro-de

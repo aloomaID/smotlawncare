@@ -1,0 +1,383 @@
+﻿Atlanta@@@atlanta-ga
+Augusta@@@augusta-ga
+Savannah@@@savannah-ga
+Columbus@@@columbus-ga
+Warner Robins@@@warner-robins-ga
+Macon@@@macon-ga
+Athens@@@athens-ga
+Gainesville@@@gainesville-ga
+Sandy Springs@@@sandy-springs-ga
+South Fulton@@@south-fulton-ga
+Roswell@@@roswell-ga
+Dalton@@@dalton-ga
+Albany@@@albany-ga
+Johns Creek@@@johns-creek-ga
+Valdosta@@@valdosta-ga
+Rome@@@rome-ga
+Alpharetta@@@alpharetta-ga
+Marietta@@@marietta-ga
+Stonecrest@@@stonecrest-ga
+Smyrna@@@smyrna-ga
+Brookhaven@@@brookhaven-ga
+Dunwoody@@@dunwoody-ga
+Peachtree Corners@@@peachtree-corners-ga
+Mableton@@@mableton-ga
+Newnan@@@newnan-ga
+Milton@@@milton-ga
+Evans@@@evans-ga
+East Point@@@east-point-ga
+Peachtree City@@@peachtree-city-ga
+Tucker@@@tucker-ga
+Hinesville@@@hinesville-ga
+Douglasville@@@douglasville-ga
+Woodstock@@@woodstock-ga
+Martinez@@@martinez-ga
+Kennesaw@@@kennesaw-ga
+Redan@@@redan-ga
+Statesboro@@@statesboro-ga
+Canton@@@canton-ga
+Duluth@@@duluth-ga
+Lagrange@@@lagrange-ga
+Lawrenceville@@@lawrenceville-ga
+Chamblee@@@chamblee-ga
+Mcdonough@@@mcdonough-ga
+Stockbridge@@@stockbridge-ga
+Carrollton@@@carrollton-ga
+Union City@@@union-city-ga
+Pooler@@@pooler-ga
+Sugar Hill@@@sugar-hill-ga
+Decatur@@@decatur-ga
+Griffin@@@griffin-ga
+Candler-Mcafee@@@candler-mcafee-ga
+Cartersville@@@cartersville-ga
+Acworth@@@acworth-ga
+Suwanee@@@suwanee-ga
+Snellville@@@snellville-ga
+Perry@@@perry-ga
+Forest Park@@@forest-park-ga
+Thomasville@@@thomasville-ga
+Fayetteville@@@fayetteville-ga
+Kingsland@@@kingsland-ga
+St. Marys@@@st-marys-ga
+North Druid Hills@@@north-druid-hills-ga
+Winder@@@winder-ga
+Norcross@@@norcross-ga
+Milledgeville@@@milledgeville-ga
+Tifton@@@tifton-ga
+Conyers@@@conyers-ga
+Calhoun@@@calhoun-ga
+Villa Rica@@@villa-rica-ga
+Buford@@@buford-ga
+Powder Springs@@@powder-springs-ga
+North Decatur@@@north-decatur-ga
+Fairburn@@@fairburn-ga
+Americus@@@americus-ga
+Dublin@@@dublin-ga
+Richmond Hill@@@richmond-hill-ga
+St. Simons@@@st-simons-ga
+Lithia Springs@@@lithia-springs-ga
+Holly Springs@@@holly-springs-ga
+Grovetown@@@grovetown-ga
+Wilmington Island@@@wilmington-island-ga
+Riverdale@@@riverdale-ga
+Brunswick@@@brunswick-ga
+Monroe@@@monroe-ga
+Moultrie@@@moultrie-ga
+Belvedere Park@@@belvedere-park-ga
+Clarkston@@@clarkston-ga
+Lilburn@@@lilburn-ga
+Bainbridge@@@bainbridge-ga
+Covington@@@covington-ga
+College Park@@@college-park-ga
+Waycross@@@waycross-ga
+Loganville@@@loganville-ga
+Dallas@@@dallas-ga
+Braselton@@@braselton-ga
+Vinings@@@vinings-ga
+Jefferson@@@jefferson-ga
+Mountain Park@@@mountain-park-ga
+Georgetown@@@georgetown-ga
+Douglas@@@douglas-ga
+Rincon@@@rincon-ga
+Vidalia@@@vidalia-ga
+Doraville@@@doraville-ga
+Scottdale@@@scottdale-ga
+Port Wentworth@@@port-wentworth-ga
+Cordele@@@cordele-ga
+Garden City@@@garden-city-ga
+Lovejoy@@@lovejoy-ga
+Fort Oglethorpe@@@fort-oglethorpe-ga
+Cairo@@@cairo-ga
+Cedartown@@@cedartown-ga
+Jesup@@@jesup-ga
+Thomaston@@@thomaston-ga
+Cusseta@@@cusseta-ga
+Country Club Estates@@@country-club-estates-ga
+Fort Stewart@@@fort-stewart-ga
+Flowery Branch@@@flowery-branch-ga
+Panthersville@@@panthersville-ga
+Toccoa@@@toccoa-ga
+Fitzgerald@@@fitzgerald-ga
+Fair Oaks@@@fair-oaks-ga
+Skidaway Island@@@skidaway-island-ga
+Bemiss@@@bemiss-ga
+Fort Valley@@@fort-valley-ga
+Locust Grove@@@locust-grove-ga
+Druid Hills@@@druid-hills-ga
+Gresham Park@@@gresham-park-ga
+Austell@@@austell-ga
+Hampton@@@hampton-ga
+Irondale@@@irondale-ga
+Dock Junction@@@dock-junction-ga
+Centerville@@@centerville-ga
+Tyrone@@@tyrone-ga
+Swainsboro@@@swainsboro-ga
+Auburn@@@auburn-ga
+Commerce@@@commerce-ga
+Bremen@@@bremen-ga
+Whitemarsh Island@@@whitemarsh-island-ga
+Conley@@@conley-ga
+Lafayette@@@lafayette-ga
+Thomson@@@thomson-ga
+Cumming@@@cumming-ga
+Dacula@@@dacula-ga
+Stone Mountain@@@stone-mountain-ga
+Morrow@@@morrow-ga
+Hapeville@@@hapeville-ga
+Dahlonega@@@dahlonega-ga
+Barnesville@@@barnesville-ga
+Eatonton@@@eatonton-ga
+Mcrae-Helena@@@mcrae-helena-ga
+Sandersville@@@sandersville-ga
+Fairview@@@fairview-ga
+Waynesboro@@@waynesboro-ga
+Fairfield Plantation@@@fairfield-plantation-ga
+Sylvester@@@sylvester-ga
+Eastman@@@eastman-ga
+Byron@@@byron-ga
+Adel@@@adel-ga
+Jackson@@@jackson-ga
+Blakely@@@blakely-ga
+Camilla@@@camilla-ga
+Temple@@@temple-ga
+Cochran@@@cochran-ga
+Baxley@@@baxley-ga
+Lindale@@@lindale-ga
+Social Circle@@@social-circle-ga
+Nashville@@@nashville-ga
+Montgomery@@@montgomery-ga
+Senoia@@@senoia-ga
+Adairsville@@@adairsville-ga
+Oakwood@@@oakwood-ga
+Palmetto@@@palmetto-ga
+Chatsworth@@@chatsworth-ga
+Hiram@@@hiram-ga
+Lakeview@@@lakeview-ga
+Rockmart@@@rockmart-ga
+Elberton@@@elberton-ga
+Buckhead@@@buckhead-ga
+Cornelia@@@cornelia-ga
+Jonesboro@@@jonesboro-ga
+Grayson@@@grayson-ga
+Hartwell@@@hartwell-ga
+Madison@@@madison-ga
+Summerville@@@summerville-ga
+Dawson@@@dawson-ga
+Forsyth@@@forsyth-ga
+Folkston@@@folkston-ga
+Euharlee@@@euharlee-ga
+Lyons@@@lyons-ga
+Ashburn@@@ashburn-ga
+Hawkinsville@@@hawkinsville-ga
+Quitman@@@quitman-ga
+Jasper@@@jasper-ga
+Hazlehurst@@@hazlehurst-ga
+Rossville@@@rossville-ga
+Metter@@@metter-ga
+Hephzibah@@@hephzibah-ga
+Glennville@@@glennville-ga
+West Point@@@west-point-ga
+Bonanza@@@bonanza-ga
+Washington@@@washington-ga
+Baldwin@@@baldwin-ga
+Walthourville@@@walthourville-ga
+Chattanooga Valley@@@chattanooga-valley-ga
+Heron Bay@@@heron-bay-ga
+Ocilla@@@ocilla-ga
+Manchester@@@manchester-ga
+Kennesaw State University@@@kennesaw-state-university-ga
+Dawsonville@@@dawsonville-ga
+Harlem@@@harlem-ga
+Greensboro@@@greensboro-ga
+Pelham@@@pelham-ga
+Hannahs Mill@@@hannahs-mill-ga
+Blackshear@@@blackshear-ga
+Avondale Estates@@@avondale-estates-ga
+Cleveland@@@cleveland-ga
+Alma@@@alma-ga
+Ringgold@@@ringgold-ga
+Leesburg@@@leesburg-ga
+Gray@@@gray-ga
+Wrightsville@@@wrightsville-ga
+Hardwick@@@hardwick-ga
+Hahira@@@hahira-ga
+Hogansville@@@hogansville-ga
+Cuthbert@@@cuthbert-ga
+Tallapoosa@@@tallapoosa-ga
+Putney@@@putney-ga
+Montezuma@@@montezuma-ga
+Grantville@@@grantville-ga
+Nicholls@@@nicholls-ga
+Tybee Island@@@tybee-island-ga
+Vienna@@@vienna-ga
+Lake City@@@lake-city-ga
+Chattahoochee Hills@@@chattahoochee-hills-ga
+Millen@@@millen-ga
+Unadilla@@@unadilla-ga
+Chickamauga@@@chickamauga-ga
+East Dublin@@@east-dublin-ga
+Lakeview Estates@@@lakeview-estates-ga
+Springfield@@@springfield-ga
+Watkinsville@@@watkinsville-ga
+Soperton@@@soperton-ga
+Bloomingdale@@@bloomingdale-ga
+Lakeland@@@lakeland-ga
+Lula@@@lula-ga
+Donalsonville@@@donalsonville-ga
+Abbeville@@@abbeville-ga
+Kings Bay Base@@@kings-bay-base-ga
+Reed Creek@@@reed-creek-ga
+Statham@@@statham-ga
+Henderson@@@henderson-ga
+Lavonia@@@lavonia-ga
+Bowdon@@@bowdon-ga
+Hoschton@@@hoschton-ga
+Raoul@@@raoul-ga
+Sylvania@@@sylvania-ga
+Trion@@@trion-ga
+Royston@@@royston-ga
+Lithonia@@@lithonia-ga
+Claxton@@@claxton-ga
+Thunderbolt@@@thunderbolt-ga
+Louisville@@@louisville-ga
+Monticello@@@monticello-ga
+Berkeley Lake@@@berkeley-lake-ga
+Pembroke@@@pembroke-ga
+Demorest@@@demorest-ga
+Midway@@@midway-ga
+Ball Ground@@@ball-ground-ga
+Reidsville@@@reidsville-ga
+Isle Of Hope@@@isle-of-hope-ga
+Mount Zion@@@mount-zion-ga
+Sparks@@@sparks-ga
+Wrens@@@wrens-ga
+Gumlog@@@gumlog-ga
+Davisboro@@@davisboro-ga
+Guyton@@@guyton-ga
+Mount Vernon@@@mount-vernon-ga
+Experiment@@@experiment-ga
+Deenwood@@@deenwood-ga
+Varnell@@@varnell-ga
+Warrenton@@@warrenton-ga
+Buena Vista@@@buena-vista-ga
+Clayton@@@clayton-ga
+Homerville@@@homerville-ga
+Trenton@@@trenton-ga
+Sparta@@@sparta-ga
+Butler@@@butler-ga
+Colquitt@@@colquitt-ga
+Morgan@@@morgan-ga
+Wadley@@@wadley-ga
+Ludowici@@@ludowici-ga
+Oxford@@@oxford-ga
+Pearson@@@pearson-ga
+Shannon@@@shannon-ga
+Hamilton@@@hamilton-ga
+Gordon@@@gordon-ga
+Ellijay@@@ellijay-ga
+Indian Springs@@@indian-springs-ga
+Berry College@@@berry-college-ga
+Porterdale@@@porterdale-ga
+Sterling@@@sterling-ga
+Winterville@@@winterville-ga
+Nicholson@@@nicholson-ga
+Twin City@@@twin-city-ga
+Unionville@@@unionville-ga
+Emerson@@@emerson-ga
+Lincolnton@@@lincolnton-ga
+Cataula@@@cataula-ga
+Mccaysville@@@mccaysville-ga
+Russell@@@russell-ga
+Maysville@@@maysville-ga
+Comer@@@comer-ga
+Lookout Mountain@@@lookout-mountain-ga
+Ellaville@@@ellaville-ga
+Union Point@@@union-point-ga
+Walnut Grove@@@walnut-grove-ga
+Pine Mountain@@@pine-mountain-ga
+Clarkesville@@@clarkesville-ga
+Aragon@@@aragon-ga
+Arcade@@@arcade-ga
+Moody Afb@@@moody-af-ga
+Bogart@@@bogart-ga
+Resaca@@@resaca-ga
+Mount Airy@@@mount-airy-ga
+Robins Afb@@@robins-af-ga
+Lumber City@@@lumber-city-ga
+Darien@@@darien-ga
+Homer@@@homer-ga
+Tennille@@@tennille-ga
+Brooklet@@@brooklet-ga
+Willacoochee@@@willacoochee-ga
+Zebulon@@@zebulon-ga
+East Griffin@@@east-griffin-ga
+Pendergrass@@@pendergrass-ga
+Tunnel Hill@@@tunnel-hill-ga
+Fairplay@@@fairplay-ga
+Sunnyside@@@sunnyside-ga
+Crawford@@@crawford-ga
+Oglethorpe@@@oglethorpe-ga
+Homeland@@@homeland-ga
+Alto@@@alto-ga
+Remerton@@@remerton-ga
+Alamo@@@alamo-ga
+Hagan@@@hagan-ga
+Sycamore@@@sycamore-ga
+Omega@@@omega-ga
+Dutch Island@@@dutch-island-ga
+Buchanan@@@buchanan-ga
+Ivey@@@ivey-ga
+Enigma@@@enigma-ga
+Roberta@@@roberta-ga
+Boston@@@boston-ga
+Nahunta@@@nahunta-ga
+Greenville@@@greenville-ga
+Eton@@@eton-ga
+Jekyll Island@@@jekyll-island-ga
+Fairmount@@@fairmount-ga
+Carnesville@@@carnesville-ga
+Blue Ridge@@@blue-ridge-ga
+Canon@@@canon-ga
+Woodbine@@@woodbine-ga
+Richland@@@richland-ga
+Dasher@@@dasher-ga
+Edison@@@edison-ga
+Young Harris@@@young-harris-ga
+Marshallville@@@marshallville-ga
+Talahi Island@@@talahi-island-ga
+Ellerslie@@@ellerslie-ga
+Glenwood@@@glenwood-ga
+Norman Park@@@norman-park-ga
+Rutledge@@@rutledge-ga
+Ray City@@@ray-city-ga
+Tignall@@@tignall-ga
+Phillipsburg@@@phillipsburg-ga
+Arlington@@@arlington-ga
+Clermont@@@clermont-ga
+Broxton@@@broxton-ga
+Franklin@@@franklin-ga
+Dexter@@@dexter-ga
+Flemington@@@flemington-ga
+Lake Park@@@lake-park-ga
+Mountain City@@@mountain-city-ga
+Rochelle@@@rochelle-ga

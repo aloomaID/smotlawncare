@@ -1,0 +1,80 @@
+﻿Sioux Falls@@@sioux-falls-sd
+Rapid City@@@rapid-city-sd
+Aberdeen@@@aberdeen-sd
+Brookings@@@brookings-sd
+Watertown@@@watertown-sd
+Mitchell@@@mitchell-sd
+Yankton@@@yankton-sd
+Pierre@@@pierre-sd
+Huron@@@huron-sd
+Spearfish@@@spearfish-sd
+Box Elder@@@box-elder-sd
+Vermillion@@@vermillion-sd
+Brandon@@@brandon-sd
+Rapid Valley@@@rapid-valley-sd
+Sturgis@@@sturgis-sd
+Harrisburg@@@harrisburg-sd
+Madison@@@madison-sd
+Belle Fourche@@@belle-fourche-sd
+Tea@@@tea-sd
+Dell Rapids@@@dell-rapids-sd
+Dakota Dunes@@@dakota-dunes-sd
+Milbank@@@milbank-sd
+Hot Springs@@@hot-springs-sd
+Hartford@@@hartford-sd
+Mobridge@@@mobridge-sd
+Pine Ridge@@@pine-ridge-sd
+Blackhawk@@@blackhawk-sd
+Canton@@@canton-sd
+Lead@@@lead-sd
+North Sioux City@@@north-sioux-city-sd
+Winner@@@winner-sd
+Summerset@@@summerset-sd
+Lennox@@@lennox-sd
+Sisseton@@@sisseton-sd
+Fort Pierre@@@fort-pierre-sd
+Colonial Pine Hills@@@colonial-pine-hills-sd
+Chamberlain@@@chamberlain-sd
+Beresford@@@beresford-sd
+Flandreau@@@flandreau-sd
+Elk Point@@@elk-point-sd
+North Spearfish@@@north-spearfish-sd
+Redfield@@@redfield-sd
+Volga@@@volga-sd
+Springfield@@@springfield-sd
+Custer@@@custer-sd
+Rosebud@@@rosebud-sd
+Webster@@@webster-sd
+Parkston@@@parkston-sd
+North Eagle Butte@@@north-eagle-butte-sd
+Freeman@@@freeman-sd
+Groton@@@groton-sd
+Wagner@@@wagner-sd
+Gettysburg@@@gettysburg-sd
+Eagle Butte@@@eagle-butte-sd
+Kyle@@@kyle-sd
+Clear Lake@@@clear-lake-sd
+Garretson@@@garretson-sd
+Crooks@@@crooks-sd
+Aurora@@@aurora-sd
+Miller@@@miller-sd
+Deadwood@@@deadwood-sd
+Gregory@@@gregory-sd
+Porcupine@@@porcupine-sd
+Fort Thompson@@@fort-thompson-sd
+Baltic@@@baltic-sd
+Lemmon@@@lemmon-sd
+Salem@@@salem-sd
+Mission@@@mission-sd
+Martin@@@martin-sd
+Tyndall@@@tyndall-sd
+Green Valley@@@green-valley-sd
+Ipswich@@@ipswich-sd
+Platte@@@platte-sd
+Oglala@@@oglala-sd
+Clark@@@clark-sd
+De Smet@@@de-smet-sd
+Britton@@@britton-sd
+Agency Village@@@agency-village-sd
+Lake Andes@@@lake-andes-sd
+Piedmont@@@piedmont-sd

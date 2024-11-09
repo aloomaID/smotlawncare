@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://smotlawncare.xyz/sitemap_index.xml
