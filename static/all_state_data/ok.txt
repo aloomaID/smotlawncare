@@ -1,0 +1,242 @@
+﻿Oklahoma City@@@oklahoma-city-ok
+Tulsa@@@tulsa-ok
+Norman@@@norman-ok
+Broken Arrow@@@broken-arrow-ok
+Edmond@@@edmond-ok
+Lawton@@@lawton-ok
+Moore@@@moore-ok
+Midwest City@@@midwest-city-ok
+Enid@@@enid-ok
+Stillwater@@@stillwater-ok
+Owasso@@@owasso-ok
+Muskogee@@@muskogee-ok
+Bartlesville@@@bartlesville-ok
+Shawnee@@@shawnee-ok
+Bixby@@@bixby-ok
+Jenks@@@jenks-ok
+Ardmore@@@ardmore-ok
+Ponca City@@@ponca-city-ok
+Yukon@@@yukon-ok
+Duncan@@@duncan-ok
+Sapulpa@@@sapulpa-ok
+Del City@@@del-city-ok
+Bethany@@@bethany-ok
+Sand Springs@@@sand-springs-ok
+Mustang@@@mustang-ok
+Claremore@@@claremore-ok
+Altus@@@altus-ok
+Durant@@@durant-ok
+Mcalester@@@mcalester-ok
+El Reno@@@el-reno-ok
+Ada@@@ada-ok
+Tahlequah@@@tahlequah-ok
+Chickasha@@@chickasha-ok
+Glenpool@@@glenpool-ok
+Miami@@@miami-ok
+Guymon@@@guymon-ok
+Woodward@@@woodward-ok
+Choctaw@@@choctaw-ok
+Weatherford@@@weatherford-ok
+Elk City@@@elk-city-ok
+Okmulgee@@@okmulgee-ok
+Newcastle@@@newcastle-ok
+Guthrie@@@guthrie-ok
+Warr Acres@@@warr-acres-ok
+Coweta@@@coweta-ok
+The Village@@@the-village-ok
+Pryor Creek@@@pryor-creek-ok
+Poteau@@@poteau-ok
+Clinton@@@clinton-ok
+Blanchard@@@blanchard-ok
+Sallisaw@@@sallisaw-ok
+Skiatook@@@skiatook-ok
+Cushing@@@cushing-ok
+Catoosa@@@catoosa-ok
+Collinsville@@@collinsville-ok
+Wagoner@@@wagoner-ok
+Tuttle@@@tuttle-ok
+Piedmont@@@piedmont-ok
+Seminole@@@seminole-ok
+Noble@@@noble-ok
+Idabel@@@idabel-ok
+Grove@@@grove-ok
+Purcell@@@purcell-ok
+Tecumseh@@@tecumseh-ok
+Blackwell@@@blackwell-ok
+Anadarko@@@anadarko-ok
+Harrah@@@harrah-ok
+Pauls Valley@@@pauls-valley-ok
+Holdenville@@@holdenville-ok
+Henryetta@@@henryetta-ok
+Vinita@@@vinita-ok
+Verdigris@@@verdigris-ok
+Hugo@@@hugo-ok
+Alva@@@alva-ok
+Lone Grove@@@lone-grove-ok
+Sulphur@@@sulphur-ok
+Sayre@@@sayre-ok
+Kingfisher@@@kingfisher-ok
+Perry@@@perry-ok
+Marlow@@@marlow-ok
+Pocola@@@pocola-ok
+Bristow@@@bristow-ok
+Mcloud@@@mcloud-ok
+Slaughterville@@@slaughterville-ok
+Broken Bow@@@broken-bow-ok
+Spencer@@@spencer-ok
+Madill@@@madill-ok
+Nichols Hills@@@nichols-hills-ok
+Fort Gibson@@@fort-gibson-ok
+Stilwell@@@stilwell-ok
+Nowata@@@nowata-ok
+Elgin@@@elgin-ok
+Frederick@@@frederick-ok
+Hobart@@@hobart-ok
+Dewey@@@dewey-ok
+Roland@@@roland-ok
+Park Hill@@@park-hill-ok
+Hominy@@@hominy-ok
+Muldrow@@@muldrow-ok
+Perkins@@@perkins-ok
+Mannford@@@mannford-ok
+Hinton@@@hinton-ok
+Cleveland@@@cleveland-ok
+Wewoka@@@wewoka-ok
+Okemah@@@okemah-ok
+Atoka@@@atoka-ok
+Tonkawa@@@tonkawa-ok
+Pawhuska@@@pawhuska-ok
+Heavener@@@heavener-ok
+Bethel Acres@@@bethel-acres-ok
+Checotah@@@checotah-ok
+Longtown@@@longtown-ok
+Tishomingo@@@tishomingo-ok
+Cache@@@cache-ok
+Chandler@@@chandler-ok
+Jones@@@jones-ok
+Lindsay@@@lindsay-ok
+Turley@@@turley-ok
+Davis@@@davis-ok
+Calera@@@calera-ok
+Marietta@@@marietta-ok
+Wilburton@@@wilburton-ok
+New Cordell@@@new-cordell-ok
+Eufaula@@@eufaula-ok
+Fairview@@@fairview-ok
+Stroud@@@stroud-ok
+Jay@@@jay-ok
+Watonga@@@watonga-ok
+Mangum@@@mangum-ok
+Stigler@@@stigler-ok
+Hennessey@@@hennessey-ok
+Goldsby@@@goldsby-ok
+Kiefer@@@kiefer-ok
+Nicoma Park@@@nicoma-park-ok
+Walters@@@walters-ok
+Drumright@@@drumright-ok
+Texanna@@@texanna-ok
+Commerce@@@commerce-ok
+Antlers@@@antlers-ok
+Oakhurst@@@oakhurst-ok
+Healdton@@@healdton-ok
+Burns Flat@@@burns-flat-ok
+Pink@@@pink-ok
+Lexington@@@lexington-ok
+Spiro@@@spiro-ok
+Krebs@@@krebs-ok
+Chouteau@@@chouteau-ok
+Chelsea@@@chelsea-ok
+Newkirk@@@newkirk-ok
+Haskell@@@haskell-ok
+Pawnee@@@pawnee-ok
+Coalgate@@@coalgate-ok
+Arkoma@@@arkoma-ok
+Waurika@@@waurika-ok
+Inola@@@inola-ok
+Prague@@@prague-ok
+Oologah@@@oologah-ok
+Comanche@@@comanche-ok
+Justice@@@justice-ok
+Hartshorne@@@hartshorne-ok
+Cherokee@@@cherokee-ok
+Wynnewood@@@wynnewood-ok
+Mccord@@@mccord-ok
+Granite@@@granite-ok
+Carnegie@@@carnegie-ok
+Minco@@@minco-ok
+Kingston@@@kingston-ok
+Hollis@@@hollis-ok
+Wilson@@@wilson-ok
+Norwood@@@norwood-ok
+Hooker@@@hooker-ok
+Copeland@@@copeland-ok
+Morris@@@morris-ok
+Westville@@@westville-ok
+Beaver@@@beaver-ok
+Luther@@@luther-ok
+Maysville@@@maysville-ok
+Crescent@@@crescent-ok
+Langston@@@langston-ok
+Cleora@@@cleora-ok
+Locust Grove@@@locust-grove-ok
+Warner@@@warner-ok
+Okarche@@@okarche-ok
+Helena@@@helena-ok
+Central High@@@central-high-ok
+Dickson@@@dickson-ok
+Cashion@@@cashion-ok
+Thomas@@@thomas-ok
+Meeker@@@meeker-ok
+Panama@@@panama-ok
+Bushyhead@@@bushyhead-ok
+Vian@@@vian-ok
+Wetumka@@@wetumka-ok
+Union City@@@union-city-ok
+West Siloam Springs@@@west-siloam-springs-ok
+Snyder@@@snyder-ok
+Shattuck@@@shattuck-ok
+Stratford@@@stratford-ok
+Whitehorn Cove@@@whitehorn-cove-ok
+Salina@@@salina-ok
+Byng@@@byng-ok
+Colbert@@@colbert-ok
+Waukomis@@@waukomis-ok
+Fairfax@@@fairfax-ok
+Grandview@@@grandview-ok
+Buffalo@@@buffalo-ok
+Rush Springs@@@rush-springs-ok
+Fairland@@@fairland-ok
+Laverne@@@laverne-ok
+Apache@@@apache-ok
+Beggs@@@beggs-ok
+Kellyville@@@kellyville-ok
+Boise City@@@boise-city-ok
+Konawa@@@konawa-ok
+Latta@@@latta-ok
+Goodwell@@@goodwell-ok
+Hydro@@@hydro-ok
+Geronimo@@@geronimo-ok
+Boley@@@boley-ok
+Sperry@@@sperry-ok
+Woodall@@@woodall-ok
+Yale@@@yale-ok
+Fletcher@@@fletcher-ok
+Briggs@@@briggs-ok
+Shady Point@@@shady-point-ok
+Caddo@@@caddo-ok
+Moodys@@@moodys-ok
+Toppers@@@toppers-ok
+Oakland@@@oakland-ok
+Mooreland@@@mooreland-ok
+Ninnekah@@@ninnekah-ok
+Keys@@@keys-ok
+North Enid@@@north-enid-ok
+Tyrone@@@tyrone-ok
+Brushy@@@brushy-ok
+Mounds@@@mounds-ok
+Pond Creek@@@pond-creek-ok
+Cookson@@@cookson-ok
+Bray@@@bray-ok
+Gore@@@gore-ok
+Weleetka@@@weleetka-ok
+Barnsdall@@@barnsdall-ok

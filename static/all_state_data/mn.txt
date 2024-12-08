@@ -1,0 +1,355 @@
+﻿Minneapolis@@@minneapolis-mn
+St. Paul@@@st-paul-mn
+St. Cloud@@@st-cloud-mn
+Rochester@@@rochester-mn
+Duluth@@@duluth-mn
+Bloomington@@@bloomington-mn
+Brooklyn Park@@@brooklyn-park-mn
+Plymouth@@@plymouth-mn
+Woodbury@@@woodbury-mn
+Maple Grove@@@maple-grove-mn
+Lakeville@@@lakeville-mn
+Blaine@@@blaine-mn
+Eagan@@@eagan-mn
+Eden Prairie@@@eden-prairie-mn
+Burnsville@@@burnsville-mn
+Coon Rapids@@@coon-rapids-mn
+Apple Valley@@@apple-valley-mn
+Minnetonka@@@minnetonka-mn
+Edina@@@edina-mn
+St. Louis Park@@@st-louis-park-mn
+Moorhead@@@moorhead-mn
+Mankato@@@mankato-mn
+Shakopee@@@shakopee-mn
+Maplewood@@@maplewood-mn
+Cottage Grove@@@cottage-grove-mn
+Richfield@@@richfield-mn
+Roseville@@@roseville-mn
+Inver Grove Heights@@@inver-grove-heights-mn
+Brooklyn Center@@@brooklyn-center-mn
+Andover@@@andover-mn
+Savage@@@savage-mn
+Fridley@@@fridley-mn
+Oakdale@@@oakdale-mn
+Chaska@@@chaska-mn
+Ramsey@@@ramsey-mn
+Prior Lake@@@prior-lake-mn
+Shoreview@@@shoreview-mn
+Owatonna@@@owatonna-mn
+Winona@@@winona-mn
+Austin@@@austin-mn
+Chanhassen@@@chanhassen-mn
+Rosemount@@@rosemount-mn
+Elk River@@@elk-river-mn
+White Bear Lake@@@white-bear-lake-mn
+Faribault@@@faribault-mn
+Champlin@@@champlin-mn
+New Brighton@@@new-brighton-mn
+Farmington@@@farmington-mn
+Crystal@@@crystal-mn
+Golden Valley@@@golden-valley-mn
+Hastings@@@hastings-mn
+New Hope@@@new-hope-mn
+Columbia Heights@@@columbia-heights-mn
+Lino Lakes@@@lino-lakes-mn
+Willmar@@@willmar-mn
+South St. Paul@@@south-st-paul-mn
+West St. Paul@@@west-st-paul-mn
+Northfield@@@northfield-mn
+Forest Lake@@@forest-lake-mn
+Otsego@@@otsego-mn
+Stillwater@@@stillwater-mn
+Sartell@@@sartell-mn
+Hopkins@@@hopkins-mn
+Albert Lea@@@albert-lea-mn
+St. Michael@@@st-michael-mn
+Anoka@@@anoka-mn
+Red Wing@@@red-wing-mn
+Ham Lake@@@ham-lake-mn
+Hibbing@@@hibbing-mn
+Buffalo@@@buffalo-mn
+Hugo@@@hugo-mn
+Bemidji@@@bemidji-mn
+Robbinsdale@@@robbinsdale-mn
+Hutchinson@@@hutchinson-mn
+North Mankato@@@north-mankato-mn
+Monticello@@@monticello-mn
+Brainerd@@@brainerd-mn
+New Ulm@@@new-ulm-mn
+Alexandria@@@alexandria-mn
+Fergus Falls@@@fergus-falls-mn
+Sauk Rapids@@@sauk-rapids-mn
+Worthington@@@worthington-mn
+Marshall@@@marshall-mn
+Mounds View@@@mounds-view-mn
+Rogers@@@rogers-mn
+Vadnais Heights@@@vadnais-heights-mn
+Waconia@@@waconia-mn
+Cloquet@@@cloquet-mn
+North St. Paul@@@north-st-paul-mn
+East Bethel@@@east-bethel-mn
+St. Peter@@@st-peter-mn
+Mendota Heights@@@mendota-heights-mn
+Big Lake@@@big-lake-mn
+Lake Elmo@@@lake-elmo-mn
+Grand Rapids@@@grand-rapids-mn
+North Branch@@@north-branch-mn
+Little Canada@@@little-canada-mn
+Fairmont@@@fairmont-mn
+Victoria@@@victoria-mn
+Hermantown@@@hermantown-mn
+Arden Hills@@@arden-hills-mn
+Detroit Lakes@@@detroit-lakes-mn
+Cambridge@@@cambridge-mn
+Mound@@@mound-mn
+Waseca@@@waseca-mn
+St. Anthony@@@st-anthony-mn
+East Grand Forks@@@east-grand-forks-mn
+Little Falls@@@little-falls-mn
+Oak Grove@@@oak-grove-mn
+Thief River Falls@@@thief-river-falls-mn
+Baxter@@@baxter-mn
+Virginia@@@virginia-mn
+Orono@@@orono-mn
+Waite Park@@@waite-park-mn
+Minnetrista@@@minnetrista-mn
+St. Francis@@@st-francis-mn
+New Prague@@@new-prague-mn
+Mahtomedi@@@mahtomedi-mn
+Wyoming@@@wyoming-mn
+Albertville@@@albertville-mn
+Shorewood@@@shorewood-mn
+Crookston@@@crookston-mn
+Belle Plaine@@@belle-plaine-mn
+Dayton@@@dayton-mn
+Spring Lake Park@@@spring-lake-park-mn
+St. Joseph@@@st-joseph-mn
+Kasson@@@kasson-mn
+Isanti@@@isanti-mn
+Medina@@@medina-mn
+Stewartville@@@stewartville-mn
+Jordan@@@jordan-mn
+Litchfield@@@litchfield-mn
+Delano@@@delano-mn
+Corcoran@@@corcoran-mn
+Byron@@@byron-mn
+Zimmerman@@@zimmerman-mn
+International Falls@@@international-falls-mn
+Carver@@@carver-mn
+Glencoe@@@glencoe-mn
+Chisago City@@@chisago-city-mn
+St. Paul Park@@@st-paul-park-mn
+Falcon Heights@@@falcon-heights-mn
+Montevideo@@@montevideo-mn
+La Crescent@@@la-crescent-mn
+North Oaks@@@north-oaks-mn
+Morris@@@morris-mn
+Lake City@@@lake-city-mn
+Redwood Falls@@@redwood-falls-mn
+Circle Pines@@@circle-pines-mn
+Luverne@@@luverne-mn
+Becker@@@becker-mn
+Lindstrom@@@lindstrom-mn
+Chisholm@@@chisholm-mn
+Princeton@@@princeton-mn
+Elko New Market@@@elko-new-market-mn
+St. James@@@st-james-mn
+Windom@@@windom-mn
+Oak Park Heights@@@oak-park-heights-mn
+Watertown@@@watertown-mn
+Lonsdale@@@lonsdale-mn
+Dilworth@@@dilworth-mn
+Rockford@@@rockford-mn
+Sauk Centre@@@sauk-centre-mn
+Nowthen@@@nowthen-mn
+Wayzata@@@wayzata-mn
+Wadena@@@wadena-mn
+Cannon Falls@@@cannon-falls-mn
+Pipestone@@@pipestone-mn
+Le Sueur@@@le-sueur-mn
+Columbus@@@columbus-mn
+Cold Spring@@@cold-spring-mn
+Goodview@@@goodview-mn
+Rice Lake@@@rice-lake-mn
+Park Rapids@@@park-rapids-mn
+Scandia@@@scandia-mn
+Grant@@@grant-mn
+St. Charles@@@st-charles-mn
+Newport@@@newport-mn
+Pine Island@@@pine-island-mn
+Centerville@@@centerville-mn
+Deephaven@@@deephaven-mn
+Norwood Young America@@@norwood-young-america-mn
+Bayport@@@bayport-mn
+Independence@@@independence-mn
+Montrose@@@montrose-mn
+Zumbrota@@@zumbrota-mn
+Long Prairie@@@long-prairie-mn
+Two Harbors@@@two-harbors-mn
+Melrose@@@melrose-mn
+Mora@@@mora-mn
+Eveleth@@@eveleth-mn
+St. Augusta@@@st-augusta-mn
+Hanover@@@hanover-mn
+Perham@@@perham-mn
+Plainview@@@plainview-mn
+Sleepy Eye@@@sleepy-eye-mn
+Breckenridge@@@breckenridge-mn
+Benson@@@benson-mn
+Annandale@@@annandale-mn
+Jackson@@@jackson-mn
+Ely@@@ely-mn
+Moose Lake@@@moose-lake-mn
+Blue Earth@@@blue-earth-mn
+Rush City@@@rush-city-mn
+Montgomery@@@montgomery-mn
+Eagle Lake@@@eagle-lake-mn
+Pine City@@@pine-city-mn
+Proctor@@@proctor-mn
+Milaca@@@milaca-mn
+Afton@@@afton-mn
+Greenfield@@@greenfield-mn
+Mountain Iron@@@mountain-iron-mn
+Caledonia@@@caledonia-mn
+Dodge Center@@@dodge-center-mn
+Chatfield@@@chatfield-mn
+Albany@@@albany-mn
+Cokato@@@cokato-mn
+Barnesville@@@barnesville-mn
+Roseau@@@roseau-mn
+Foley@@@foley-mn
+Cohasset@@@cohasset-mn
+Crosby@@@crosby-mn
+Sandstone@@@sandstone-mn
+Osseo@@@osseo-mn
+Glenwood@@@glenwood-mn
+Pelican Rapids@@@pelican-rapids-mn
+Breezy Point@@@breezy-point-mn
+Le Center@@@le-center-mn
+Lake Crystal@@@lake-crystal-mn
+Janesville@@@janesville-mn
+Lauderdale@@@lauderdale-mn
+Spring Valley@@@spring-valley-mn
+Wabasha@@@wabasha-mn
+Granite Falls@@@granite-falls-mn
+Arlington@@@arlington-mn
+Madelia@@@madelia-mn
+Olivia@@@olivia-mn
+Mayer@@@mayer-mn
+Excelsior@@@excelsior-mn
+Rockville@@@rockville-mn
+Staples@@@staples-mn
+Wells@@@wells-mn
+Hoyt Lakes@@@hoyt-lakes-mn
+Maple Lake@@@maple-lake-mn
+Esko@@@esko-mn
+Pequot Lakes@@@pequot-lakes-mn
+Cologne@@@cologne-mn
+Hawley@@@hawley-mn
+Aitkin@@@aitkin-mn
+Springfield@@@springfield-mn
+Tracy@@@tracy-mn
+Blooming Prairie@@@blooming-prairie-mn
+Lexington@@@lexington-mn
+Warroad@@@warroad-mn
+Paynesville@@@paynesville-mn
+Ortonville@@@ortonville-mn
+Slayton@@@slayton-mn
+Eyota@@@eyota-mn
+St. Bonifacius@@@st-bonifacius-mn
+Gaylord@@@gaylord-mn
+Mountain Lake@@@mountain-lake-mn
+Spring Park@@@spring-park-mn
+Stacy@@@stacy-mn
+Winsted@@@winsted-mn
+Howard Lake@@@howard-lake-mn
+Ada@@@ada-mn
+Gilbert@@@gilbert-mn
+Kenyon@@@kenyon-mn
+Rice@@@rice-mn
+Lewiston@@@lewiston-mn
+Lester Prairie@@@lester-prairie-mn
+Rock Creek@@@rock-creek-mn
+Waverly@@@waverly-mn
+Long Lake@@@long-lake-mn
+Nisswa@@@nisswa-mn
+Rushford@@@rushford-mn
+Coleraine@@@coleraine-mn
+Aurora@@@aurora-mn
+Lakefield@@@lakefield-mn
+Lakeland@@@lakeland-mn
+Waterville@@@waterville-mn
+Saint John'S University@@@saint-johns-university-mn
+Braham@@@braham-mn
+Osakis@@@osakis-mn
+Mapleton@@@mapleton-mn
+Maple Plain@@@maple-plain-mn
+Dundas@@@dundas-mn
+Pierz@@@pierz-mn
+Oronoco@@@oronoco-mn
+Warren@@@warren-mn
+Silver Bay@@@silver-bay-mn
+Grand Marais@@@grand-marais-mn
+Clearwater@@@clearwater-mn
+Hinckley@@@hinckley-mn
+Clara City@@@clara-city-mn
+Red Lake@@@red-lake-mn
+Canby@@@canby-mn
+Madison@@@madison-mn
+Spring Grove@@@spring-grove-mn
+Dawson@@@dawson-mn
+Tonka Bay@@@tonka-bay-mn
+Avon@@@avon-mn
+Fosston@@@fosston-mn
+Winthrop@@@winthrop-mn
+Glyndon@@@glyndon-mn
+Renville@@@renville-mn
+Hayfield@@@hayfield-mn
+Babbitt@@@babbitt-mn
+Dassel@@@dassel-mn
+Fairfax@@@fairfax-mn
+Appleton@@@appleton-mn
+Dellwood@@@dellwood-mn
+Fulda@@@fulda-mn
+Richmond@@@richmond-mn
+Minneota@@@minneota-mn
+Preston@@@preston-mn
+Medford@@@medford-mn
+Red Lake Falls@@@red-lake-falls-mn
+Wheaton@@@wheaton-mn
+Winnebago@@@winnebago-mn
+Starbuck@@@starbuck-mn
+Edgerton@@@edgerton-mn
+Spicer@@@spicer-mn
+Royalton@@@royalton-mn
+Goodhue@@@goodhue-mn
+New York Mills@@@new-york-mills-mn
+Parkers Prairie@@@parkers-prairie-mn
+New London@@@new-london-mn
+Keewatin@@@keewatin-mn
+Bagley@@@bagley-mn
+Wanamingo@@@wanamingo-mn
+Truman@@@truman-mn
+Taylors Falls@@@taylors-falls-mn
+Hilltop@@@hilltop-mn
+Cottonwood@@@cottonwood-mn
+Tyler@@@tyler-mn
+Frazee@@@frazee-mn
+Hector@@@hector-mn
+Nashwauk@@@nashwauk-mn
+Shafer@@@shafer-mn
+Atwater@@@atwater-mn
+Redby@@@redby-mn
+Lake St. Croix Beach@@@lake-st-croix-beach-mn
+Elbow Lake@@@elbow-lake-mn
+Adrian@@@adrian-mn
+Mahnomen@@@mahnomen-mn
+Scanlon@@@scanlon-mn
+Elgin@@@elgin-mn
+Madison Lake@@@madison-lake-mn
+Menahga@@@menahga-mn
+Lake Shore@@@lake-shore-mn
+Buhl@@@buhl-mn
+Grand Meadow@@@grand-meadow-mn
+Baudette@@@baudette-mn
+Nicollet@@@nicollet-mn

@@ -1,0 +1,101 @@
+﻿Boise@@@boise-id
+Nampa@@@nampa-id
+Meridian@@@meridian-id
+Coeur D'Alene@@@coeur-dalene-id
+Idaho Falls@@@idaho-falls-id
+Pocatello@@@pocatello-id
+Caldwell@@@caldwell-id
+Twin Falls@@@twin-falls-id
+Post Falls@@@post-falls-id
+Lewiston@@@lewiston-id
+Rexburg@@@rexburg-id
+Eagle@@@eagle-id
+Moscow@@@moscow-id
+Kuna@@@kuna-id
+Ammon@@@ammon-id
+Mountain Home@@@mountain-home-id
+Chubbuck@@@chubbuck-id
+Hayden@@@hayden-id
+Jerome@@@jerome-id
+Blackfoot@@@blackfoot-id
+Garden City@@@garden-city-id
+Burley@@@burley-id
+Star@@@star-id
+Rathdrum@@@rathdrum-id
+Middleton@@@middleton-id
+Hailey@@@hailey-id
+Sandpoint@@@sandpoint-id
+Payette@@@payette-id
+Emmett@@@emmett-id
+Rupert@@@rupert-id
+Fruitland@@@fruitland-id
+Weiser@@@weiser-id
+Preston@@@preston-id
+Rigby@@@rigby-id
+Shelley@@@shelley-id
+Buhl@@@buhl-id
+American Falls@@@american-falls-id
+Kimberly@@@kimberly-id
+Lincoln@@@lincoln-id
+St. Anthony@@@st-anthony-id
+Gooding@@@gooding-id
+Heyburn@@@heyburn-id
+Mccall@@@mccall-id
+Ketchum@@@ketchum-id
+Hidden Springs@@@hidden-springs-id
+Victor@@@victor-id
+Grangeville@@@grangeville-id
+Orofino@@@orofino-id
+Salmon@@@salmon-id
+Soda Springs@@@soda-springs-id
+St. Maries@@@st-maries-id
+Mountain Home Afb@@@mountain-home-af-id
+Wendell@@@wendell-id
+Homedale@@@homedale-id
+Aberdeen@@@aberdeen-id
+Filer@@@filer-id
+Iona@@@iona-id
+Montpelier@@@montpelier-id
+Bellevue@@@bellevue-id
+Fort Hall@@@fort-hall-id
+Bonners Ferry@@@bonners-ferry-id
+Dalton Gardens@@@dalton-gardens-id
+Driggs@@@driggs-id
+Sugar City@@@sugar-city-id
+Kellogg@@@kellogg-id
+Malad City@@@malad-city-id
+Priest River@@@priest-river-id
+Pinehurst@@@pinehurst-id
+Parma@@@parma-id
+Spirit Lake@@@spirit-lake-id
+Shoshone@@@shoshone-id
+Hansen@@@hansen-id
+Wilder@@@wilder-id
+New Plymouth@@@new-plymouth-id
+Osburn@@@osburn-id
+Lapwai@@@lapwai-id
+Tyhee@@@tyhee-id
+Paul@@@paul-id
+Robie Creek@@@robie-creek-id
+Grace@@@grace-id
+Ucon@@@ucon-id
+Carey@@@carey-id
+Sun Valley@@@sun-valley-id
+Marsing@@@marsing-id
+Avimor@@@avimor-id
+Moreland@@@moreland-id
+Kamiah@@@kamiah-id
+Genesee@@@genesee-id
+Ponderay@@@ponderay-id
+Hagerman@@@hagerman-id
+Cottonwood@@@cottonwood-id
+Glenns Ferry@@@glenns-ferry-id
+Kootenai@@@kootenai-id
+Moyie Springs@@@moyie-springs-id
+Ashton@@@ashton-id
+Cascade@@@cascade-id
+Wallace@@@wallace-id
+Plummer@@@plummer-id
+Groveland@@@groveland-id
+Hauser@@@hauser-id
+Riverside@@@riverside-id
