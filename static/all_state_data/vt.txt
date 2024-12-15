@@ -1,0 +1,22 @@
+﻿Burlington@@@burlington-vt
+South Burlington@@@south-burlington-vt
+Rutland@@@rutland-vt
+Essex Junction@@@essex-junction-vt
+Barre@@@barre-vt
+Winooski@@@winooski-vt
+Montpelier@@@montpelier-vt
+St. Albans@@@st-albans-vt
+Newport@@@newport-vt
+Wilder@@@wilder-vt
+White River Junction@@@white-river-junction-vt
+West Brattleboro@@@west-brattleboro-vt
+Bellows Falls@@@bellows-falls-vt
+Vergennes@@@vergennes-vt
+Morrisville@@@morrisville-vt
+Manchester Center@@@manchester-center-vt
+North Bennington@@@north-bennington-vt
+Proctor@@@proctor-vt
+Enosburg Falls@@@enosburg-falls-vt
+Lyndonville@@@lyndonville-vt
+South Barre@@@south-barre-vt
+Orleans@@@orleans-vt

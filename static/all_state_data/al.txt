@@ -1,0 +1,326 @@
+﻿Birmingham@@@birmingham-al
+Huntsville@@@huntsville-al
+Mobile@@@mobile-al
+Montgomery@@@montgomery-al
+Tuscaloosa@@@tuscaloosa-al
+Hoover@@@hoover-al
+Auburn@@@auburn-al
+Florence@@@florence-al
+Anniston@@@anniston-al
+Dothan@@@dothan-al
+Decatur@@@decatur-al
+Madison@@@madison-al
+Vestavia Hills@@@vestavia-hills-al
+Phenix City@@@phenix-city-al
+Prattville@@@prattville-al
+Gadsden@@@gadsden-al
+Alabaster@@@alabaster-al
+Opelika@@@opelika-al
+Northport@@@northport-al
+Enterprise@@@enterprise-al
+Daphne@@@daphne-al
+Homewood@@@homewood-al
+Bessemer@@@bessemer-al
+Athens@@@athens-al
+Trussville@@@trussville-al
+Pelham@@@pelham-al
+Albertville@@@albertville-al
+Oxford@@@oxford-al
+Mountain Brook@@@mountain-brook-al
+Fairhope@@@fairhope-al
+Helena@@@helena-al
+Foley@@@foley-al
+Prichard@@@prichard-al
+Selma@@@selma-al
+Tillmans Corner@@@tillmans-corner-al
+Cullman@@@cullman-al
+Troy@@@troy-al
+Hueytown@@@hueytown-al
+Millbrook@@@millbrook-al
+Center Point@@@center-point-al
+Calera@@@calera-al
+Muscle Shoals@@@muscle-shoals-al
+Saraland@@@saraland-al
+Gardendale@@@gardendale-al
+Talladega@@@talladega-al
+Scottsboro@@@scottsboro-al
+Hartselle@@@hartselle-al
+Alexander City@@@alexander-city-al
+Fort Payne@@@fort-payne-al
+Gulf Shores@@@gulf-shores-al
+Chelsea@@@chelsea-al
+Ozark@@@ozark-al
+Jasper@@@jasper-al
+Irondale@@@irondale-al
+Mccalla@@@mccalla-al
+Moody@@@moody-al
+Jacksonville@@@jacksonville-al
+Pell City@@@pell-city-al
+Eufaula@@@eufaula-al
+Sylacauga@@@sylacauga-al
+Leeds@@@leeds-al
+Russellville@@@russellville-al
+Saks@@@saks-al
+Valley@@@valley-al
+Clay@@@clay-al
+Fairfield@@@fairfield-al
+Rainbow City@@@rainbow-city-al
+Boaz@@@boaz-al
+Spanish Fort@@@spanish-fort-al
+Fultondale@@@fultondale-al
+Pleasant Grove@@@pleasant-grove-al
+Meadowbrook@@@meadowbrook-al
+Sheffield@@@sheffield-al
+Southside@@@southside-al
+Forestdale@@@forestdale-al
+Pike Road@@@pike-road-al
+Tuskegee@@@tuskegee-al
+Tuscumbia@@@tuscumbia-al
+Andalusia@@@andalusia-al
+Atmore@@@atmore-al
+Clanton@@@clanton-al
+Guntersville@@@guntersville-al
+Arab@@@ara-al
+Meridianville@@@meridianville-al
+Orange Beach@@@orange-beach-al
+Bay Minette@@@bay-minette-al
+Brook Highland@@@brook-highland-al
+Greenville@@@greenville-al
+Pinson@@@pinson-al
+Demopolis@@@demopolis-al
+Wetumpka@@@wetumpka-al
+Hamilton@@@hamilton-al
+Montevallo@@@montevallo-al
+Lincoln@@@lincoln-al
+Lanett@@@lanett-al
+Oneonta@@@oneonta-al
+Satsuma@@@satsuma-al
+Opp@@@opp-al
+Harvest@@@harvest-al
+Robertsdale@@@robertsdale-al
+Chickasaw@@@chickasaw-al
+Highland Lakes@@@highland-lakes-al
+Tarrant@@@tarrant-al
+Grayson Valley@@@grayson-valley-al
+Monroeville@@@monroeville-al
+Theodore@@@theodore-al
+Fort Rucker@@@fort-rucker-al
+Attalla@@@attalla-al
+Moores Mill@@@moores-mill-al
+Rainsville@@@rainsville-al
+Smiths Station@@@smiths-station-al
+Roanoke@@@roanoke-al
+Glencoe@@@glencoe-al
+Redland@@@redland-al
+Brewton@@@brewton-al
+Midfield@@@midfield-al
+Tallassee@@@tallassee-al
+Margaret@@@margaret-al
+Holtville@@@holtville-al
+Semmes@@@semmes-al
+Headland@@@headland-al
+Daleville@@@daleville-al
+Piedmont@@@piedmont-al
+Winfield@@@winfield-al
+Odenville@@@odenville-al
+Holt@@@holt-al
+Jackson@@@jackson-al
+Childersburg@@@childersburg-al
+Springville@@@springville-al
+Argo@@@argo-al
+Hokes Bluff@@@hokes-bluff-al
+Adamsville@@@adamsville-al
+Haleyville@@@haleyville-al
+Fayette@@@fayette-al
+Geneva@@@geneva-al
+Columbiana@@@columbiana-al
+Mount Olive@@@mount-olive-al
+Valley Grande@@@valley-grande-al
+Alexandria@@@alexandria-al
+Pine Level@@@pine-level-al
+Citronelle@@@citronelle-al
+Hazel Green@@@hazel-green-al
+Cottondale@@@cottondale-al
+Kimberly@@@kimberly-al
+Ladonia@@@ladonia-al
+Thomasville@@@thomasville-al
+Loxley@@@loxley-al
+Evergreen@@@evergreen-al
+Centre@@@centre-al
+Priceville@@@priceville-al
+Emerald Mountain@@@emerald-mountain-al
+Elba@@@elba-al
+Grand Bay@@@grand-bay-al
+Heflin@@@heflin-al
+Union Springs@@@union-springs-al
+Weaver@@@weaver-al
+Lake View@@@lake-view-al
+Moulton@@@moulton-al
+Marion@@@marion-al
+Livingston@@@livingston-al
+Brent@@@brent-al
+Warrior@@@warrior-al
+Red Bay@@@red-bay-al
+Hanceville@@@hanceville-al
+East Brewton@@@east-brewton-al
+West End-Cobb Town@@@west-end-cobb-town-al
+Dadeville@@@dadeville-al
+Huguley@@@huguley-al
+Brighton@@@brighton-al
+Eutaw@@@eutaw-al
+New Hope@@@new-hope-al
+Choccolocco@@@choccolocco-al
+Eagle Point@@@eagle-point-al
+Centreville@@@centreville-al
+Triana@@@triana-al
+Moundville@@@moundville-al
+Creola@@@creola-al
+Dora@@@dora-al
+Graysville@@@graysville-al
+Luverne@@@luverne-al
+Stevenson@@@stevenson-al
+Sumiton@@@sumiton-al
+La Fayette@@@la-fayette-al
+Underwood-Petersville@@@underwood-petersville-al
+Jemison@@@jemison-al
+Hartford@@@hartford-al
+Lineville@@@lineville-al
+Taylor@@@taylor-al
+Indian Springs Village@@@indian-springs-village-al
+Stapleton@@@stapleton-al
+Bayou La Batre@@@bayou-la-batre-al
+Remlap@@@remlap-al
+Clayton@@@clayton-al
+Bon Secour@@@bon-secour-al
+Trinity@@@trinity-al
+Guin@@@guin-al
+Owens Cross Roads@@@owens-cross-roads-al
+Greensboro@@@greensboro-al
+Thorsby@@@thorsby-al
+Ashford@@@ashford-al
+Carlisle-Rockledge@@@carlisle-rockledge-al
+Good Hope@@@good-hope-al
+Henagar@@@henagar-al
+Riverside@@@riverside-al
+Brookwood@@@brookwood-al
+Butler@@@butler-al
+York@@@york-al
+Kinsey@@@kinsey-al
+Bridgeport@@@bridgeport-al
+Elberta@@@elberta-al
+Brundidge@@@brundidge-al
+Morris@@@morris-al
+Aliceville@@@aliceville-al
+Abbeville@@@abbeville-al
+Cowarts@@@cowarts-al
+Wilsonville@@@wilsonville-al
+Whitesboro@@@whitesboro-al
+Camden@@@camden-al
+Lillian@@@lillian-al
+Deatsville@@@deatsville-al
+Lipscomb@@@lipscom-al
+Coaling@@@coaling-al
+Ashville@@@ashville-al
+Grove Hill@@@grove-hill-al
+Uniontown@@@uniontown-al
+Collinsville@@@collinsville-al
+Point Clear@@@point-clear-al
+Selmont-West Selmont@@@selmont-west-selmont-al
+Westover@@@westover-al
+Linden@@@linden-al
+Reform@@@reform-al
+Crossville@@@crossville-al
+Vernon@@@vernon-al
+Midland City@@@midland-city-al
+Fort Deposit@@@fort-deposit-al
+Marbury@@@marbury-al
+Blountsville@@@blountsville-al
+Vance@@@vance-al
+Sylvania@@@sylvania-al
+Level Plains@@@level-plains-al
+Sardis City@@@sardis-city-al
+Slocomb@@@slocom-al
+Vincent@@@vincent-al
+Stewartville@@@stewartville-al
+Ragland@@@ragland-al
+Florala@@@florala-al
+Dauphin Island@@@dauphin-island-al
+Double Springs@@@double-springs-al
+Ashland@@@ashland-al
+Flomaton@@@flomaton-al
+Rehobeth@@@rehobeth-al
+Malvern@@@malvern-al
+Cordova@@@cordova-al
+Cedar Bluff@@@cedar-bluff-al
+Frisco City@@@frisco-city-al
+Smoke Rise@@@smoke-rise-al
+Concord@@@concord-al
+Sylvan Springs@@@sylvan-springs-al
+Sulligent@@@sulligent-al
+Newton@@@newton-al
+Gordo@@@gordo-al
+Harpersville@@@harpersville-al
+Munford@@@munford-al
+Bear Creek@@@bear-creek-al
+Elmore@@@elmore-al
+Mount Vernon@@@mount-vernon-al
+Samson@@@samson-al
+Locust Fork@@@locust-fork-al
+Grant@@@grant-al
+Carbon Hill@@@carbon-hill-al
+Rock Creek@@@rock-creek-al
+Summerdale@@@summerdale-al
+Hackleburg@@@hackleburg-al
+Altoona@@@altoona-al
+Magnolia Springs@@@magnolia-springs-al
+Blue Ridge@@@blue-ridge-al
+Hayden@@@hayden-al
+Lookout Mountain@@@lookout-mountain-al
+Ballplay@@@ballplay-al
+Webb@@@web-al
+Georgiana@@@georgiana-al
+West Blocton@@@west-blocton-al
+Falkville@@@falkville-al
+Rogersville@@@rogersville-al
+Fayetteville@@@fayetteville-al
+Fyffe@@@fyffe-al
+Camp Hill@@@camp-hill-al
+Shoal Creek@@@shoal-creek-al
+Steele@@@steele-al
+Parrish@@@parrish-al
+Cleveland@@@cleveland-al
+Ardmore@@@ardmore-al
+Eclectic@@@eclectic-al
+Geraldine@@@geraldine-al
+Susan Moore@@@susan-moore-al
+Brookside@@@brookside-al
+Woodstock@@@woodstock-al
+Snead@@@snead-al
+New Brockton@@@new-brockton-al
+Killen@@@killen-al
+Redstone Arsenal@@@redstone-arsenal-al
+Clio@@@clio-al
+Dunnavant@@@dunnavant-al
+Millport@@@millport-al
+Brilliant@@@brilliant-al
+Goodwater@@@goodwater-al
+Ohatchee@@@ohatchee-al
+Cottonwood@@@cottonwood-al
+Pisgah@@@pisgah-al
+Oak Grove@@@oak-grove-al
+Coats Bend@@@coats-bend-al
+Baileyton@@@baileyton-al
+Egypt@@@egypt-al
+Carrollton@@@carrollton-al
+Notasulga@@@notasulga-al
+Skyline@@@skyline-al
+Coosada@@@coosada-al
+Coker@@@coker-al
+Minor@@@minor-al
+Tidmore Bend@@@tidmore-bend-al
+Powell@@@powell-al
+Hayneville@@@hayneville-al
+Woodville@@@woodville-al
+Douglas@@@douglas-al
+Town Creek@@@town-creek-al
+New Market@@@new-market-al

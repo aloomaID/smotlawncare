@@ -1,0 +1,206 @@
+{
+    "ny": {
+        "full_name": "New York",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.0474181227!2d-74.31001411199746!3d40.697538010751515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sng!4v1722983321468!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ca": {
+        "full_name": "California",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6512031.825605474!2d-124.60565661881203!3d37.15976004483131!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20USA!5e0!3m2!1sen!2sng!4v1722983486967!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "il": {
+        "full_name": "Illinois",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3142819.950977173!2d-91.91221906089868!3d39.71358438813542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880b2d386f6e2619%3A0x7f15825064115956!2sIllinois%2C%20USA!5e0!3m2!1sen!2sng!4v1722983516105!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "fl": {
+        "full_name": "Florida",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7247656.382625033!2d-89.10865232987133!3d27.50364953062211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c1766591562abf%3A0xf72e13d35bc74ed0!2sFlorida%2C%20USA!5e0!3m2!1sen!2sng!4v1722983545409!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "tx": {
+        "full_name": "Texas",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6998919.661913449!2d-105.37916443089402!3d31.06965114276492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864070360b823249%3A0x16eb1c8f1808de3c!2sTexas%2C%20USA!5e0!3m2!1sen!2sng!4v1722983891693!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "pa": {
+        "full_name": "Pennsylvania",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1539099.9905289675!2d-78.92668561108096!3d41.111497102257694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882d80261e32e589%3A0xc24621475022b43d!2sPennsylvania%2C%20USA!5e0!3m2!1sen!2sng!4v1722983913695!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ga": {
+        "full_name": "Georgia",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022079.176685634!2d40.7122015614566!3d42.294547885270866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40440cd7e64f626b%3A0x4f907964122d4ac2!2sGeorgia!5e0!3m2!1sen!2sng!4v1722983935845!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "dc": {
+        "full_name": "District of Columbia",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d198740.17670987826!2d-77.17972882065722!3d38.893905416692185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c6de5af6e45b%3A0xc2524522d4885d2a!2sWashington%2C%20DC%2C%20USA!5e0!3m2!1sen!2sng!4v1722983961062!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ma": {
+        "full_name": "Massachusetts",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1517337.9150301805!2d-73.00549931819145!3d42.031371879410216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3656de973bffd%3A0x45c6d03655830d1c!2sMassachusetts%2C%20USA!5e0!3m2!1sen!2sng!4v1722983994164!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "az": {
+        "full_name": "Arizona",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381334.235414484!2d-114.57697367051489!3d34.144187525636525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08ebcb4c186b%3A0x423927b17fc1cd71!2sArizona%2C%20USA!5e0!3m2!1sen!2sng!4v1722984012340!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "mi": {
+        "full_name": "Michigan",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5789340.234471652!2d-91.56507937961663!3d44.88618401039974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4d4caa3dc7ca0411%3A0x97dd48597a62c9b3!2sMichigan%2C%20USA!5e0!3m2!1sen!2sng!4v1722984035117!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "wa": {
+        "full_name": "Washington",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2773485.1424540635!2d-123.52747093747516!3d47.246285516049866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485e5ffe7c3b0f9%3A0x944278686c5ff3ba!2sWashington%2C%20USA!5e0!3m2!1sen!2sng!4v1722984060631!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "mn": {
+        "full_name": "Minnesota",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5642495.164578742!2d-98.65504810091443!3d46.32722059442958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4d585b9a60780b9b%3A0x2a2c99b10fea20f!2sMinnesota%2C%20USA!5e0!3m2!1sen!2sng!4v1722984088596!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "co": {
+        "full_name": "Colorado",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3176328.179451541!2d-108.1966463373335!3d38.97233977615629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x874014749b1856b7%3A0xc75483314990a7ff!2sColorado%2C%20USA!5e0!3m2!1sen!2sng!4v1722984124547!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "md": {
+        "full_name": "Maryland",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1592032.29966902!2d-78.55898933728915!3d38.79951424912172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64debe9f190df%3A0xf2af37657655f6b1!2sMaryland%2C%20USA!5e0!3m2!1sen!2sng!4v1722984143962!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "nv": {
+        "full_name": "Nevada",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6404470.497249613!2d-122.32131451722148!3d38.391020817202126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80990aa1f8deb471%3A0xcf47038aaafc95b3!2sNevada%2C%20USA!5e0!3m2!1sen!2sng!4v1722984174321!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "mo": {
+        "full_name": "Missouri",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3207178.3403207264!2d-95.08268524388296!3d38.279258766839625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c0e6d54822e37d%3A0xb55bc4590466bd72!2sMissouri%2C%20USA!5e0!3m2!1sen!2sng!4v1722984194975!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "or": {
+        "full_name": "Oregon",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2933014.5941206156!2d-123.22867475119085!3d44.11901017011164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54936e7c9b9f6a55%3A0x7d4c65db7a0bb876!2sOregon%2C%20USA!5e0!3m2!1sen!2sng!4v1722984220745!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "oh": {
+        "full_name": "Ohio",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3114210.3845889727!2d-85.31515651114861!3d40.33744148094184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8836e97ab54d8ec1%3A0xe5cd64399c9fd916!2sOhio%2C%20USA!5e0!3m2!1sen!2sng!4v1722984237933!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "in": {
+        "full_name": "Indiana",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3141583.8058425607!2d-89.08692298764014!3d39.74070804682013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886b50bcd9f81b1d%3A0x7e102fcecb32ec72!2sIndiana%2C%20USA!5e0!3m2!1sen!2sng!4v1722984256152!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "nc": {
+        "full_name": "North Carolina",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3340714.603780179!2d-82.50710759595893!3d35.146229487619365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88541fc4fc381a81%3A0xad3f30f5e922ae19!2sNorth%20Carolina%2C%20USA!5e0!3m2!1sen!2sng!4v1722984278753!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "va": {
+        "full_name": "Virginia",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3220436.4549316266!2d-82.06679270081622!3d37.978121707749196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884cd670bdbcb2cd%3A0xc04e4149b746a695!2sVirginia%2C%20USA!5e0!3m2!1sen!2sng!4v1722984302178!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "wi": {
+        "full_name": "Wisconsin",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2895276.737858129!2d-92.21468626556896!3d44.87412776637296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52a8f40f9384e3af%3A0xf2d5d5b8f88649d6!2sWisconsin%2C%20USA!5e0!3m2!1sen!2sng!4v1722984325850!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ri": {
+        "full_name": "Rhode Island",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d764311.2842769354!2d-72.15868871128276!3d41.556453118632916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e43514620ed70f%3A0x1e4e18bce7c106e7!2sRhode%20Island%2C%20USA!5e0!3m2!1sen!2sng!4v1722984347784!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ut": {
+        "full_name": "Utah",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153711.140426295!2d-114.19296369246126!3d39.47393630616357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x874c6bc78f13f9cd%3A0xbddf4aa56cd7463f!2sUtah%2C%20USA!5e0!3m2!1sen!2sng!4v1722984371307!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "tn": {
+        "full_name": "Tennessee",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313408.9994924255!2d-88.62477378466554!3d35.806046327220066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88614b239e97cf03%3A0x33e20c1a5819156!2sTennessee%2C%20USA!5e0!3m2!1sen!2sng!4v1722984392582!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ky": {
+        "full_name": "Kentucky",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228361.6247885996!2d-88.413890205048!3d37.797142487223255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8842734c8b1953c9%3A0x771f6f4ec5ccdffc!2sKentucky%2C%20USA!5e0!3m2!1sen!2sng!4v1722984419448!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ok": {
+        "full_name": "Oklahoma",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335020.202782933!2d-101.36283859996098!3d35.28471463121602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87ac3911b1ac4f9d%3A0x5d1ccf33400aea48!2sOklahoma%2C%20USA!5e0!3m2!1sen!2sng!4v1722984454486!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ct": {
+        "full_name": "Connecticut",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d764980.0930978552!2d-73.41828143128997!3d41.499864922164555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e65311f21151a5%3A0xae9a6d5b056170e5!2sConnecticut%2C%20USA!5e0!3m2!1sen!2sng!4v1722984477238!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "la": {
+        "full_name": "Louisiana",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505133.141214894!2d-94.0473691440403!3d30.915138921138222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8620a454b2118265%3A0xc955f73281e54703!2sLouisiana%2C%20USA!5e0!3m2!1sen!2sng!4v1722984504597!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "hi": {
+        "full_name": "Hawaii",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3828212.011461334!2d-160.15222615285842!3d20.445128403405928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7bffdb064f79e005%3A0x4b7782d274cc8628!2sHawaii%2C%20USA!5e0!3m2!1sen!2sng!4v1722984524559!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ne": {
+        "full_name": "Nebraska",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3061112.8173914193!2d-102.32644162424943!3d41.47462124232633!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87938dc8b50cfced%3A0xa127900c0ff30ac4!2sNebraska%2C%20USA!5e0!3m2!1sen!2sng!4v1722984549673!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "nm": {
+        "full_name": "New Mexico",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381407.7448407523!2d-108.67246343138459!3d34.14235079586808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87185043e79852a9%3A0x46bf6e1a63359eba!2sNew%20Mexico%2C%20USA!5e0!3m2!1sen!2sng!4v1722984582025!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "al": {
+        "full_name": "Alabama",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3443701.020826219!2d-89.3270997075166!3d32.55313139859123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88867f341f4bfe75%3A0x5e55343553c8cce9!2sAlabama%2C%20USA!5e0!3m2!1sen!2sng!4v1722984604612!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "sc": {
+        "full_name": "South Carolina",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1701461.3902395742!2d-82.24872489574489!3d33.60097694642388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f8a5697931d1e3%3A0xb9ffa132f505179e!2sSouth%20Carolina%2C%20USA!5e0!3m2!1sen!2sng!4v1722984632707!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ia": {
+        "full_name": "Iowa",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040366.482525956!2d-96.03526905229468!3d41.9120392770523!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87ee5e6ff1f86019%3A0xc6ef634a57c759d9!2sIowa%2C%20USA!5e0!3m2!1sen!2sng!4v1722984664181!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ks": {
+        "full_name": "Kansas",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3198618.1287554!2d-100.96590882917025!3d38.472628937564096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87a31771717c016b%3A0x68c2b4a94b3e095f!2sKansas%2C%20USA!5e0!3m2!1sen!2sng!4v1722984688351!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ar": {
+        "full_name": "Arkansas",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3357796.7931356337!2d-94.77560283382081!3d34.7279132130166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87d29e3f743f2761%3A0xa405693effdfd2d0!2sArkansas%2C%20USA!5e0!3m2!1sen!2sng!4v1722984708427!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "id": {
+        "full_name": "Idaho",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5739447.920089821!2d-119.43743946230315!3d45.379793895582004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5358ffa885e499e9%3A0xd06b300515f78758!2sIdaho%2C%20USA!5e0!3m2!1sen!2sng!4v1722984734548!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ms": {
+        "full_name": "Mississippi",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3444017.5425924463!2d-92.5228125052749!3d32.544881016047576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x862832e4e44ad419%3A0x620d177fe9dca6da!2sMississippi%2C%20USA!5e0!3m2!1sen!2sng!4v1722984756815!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "nj": {
+        "full_name": "New Jersey",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1563312.507816064!2d-76.04632309960199!3d40.06772167330831!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c0fb959e00409f%3A0x2cd27b07f83f6d8d!2sNew%20Jersey%2C%20USA!5e0!3m2!1sen!2sng!4v1722984780050!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "ak": {
+        "full_name": "Alaska",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16494238.126682216!2d-179.50754790610674!3d59.69196204189045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5400df9cc0aec01b%3A0xbcdb5e27a98adb35!2sAlaska%2C%20USA!5e0!3m2!1sen!2sng!4v1722984804737!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "nh": {
+        "full_name": "New Hampshire",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1469562.8336070764!2d-72.8880353352236!3d43.99576615309209!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb3444b9dc0a6eb%3A0xd7c802af25a680eb!2sNew%20Hampshire%2C%20USA!5e0!3m2!1sen!2sng!4v1722984826321!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "me": {
+        "full_name": "Maine",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880766.4531510808!2d-71.62985191765881!3d45.161817758947294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb01dde1d538ad5%3A0xd679cc6f6720a8d0!2sMaine%2C%20USA!5e0!3m2!1sen!2sng!4v1722984846409!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "nd": {
+        "full_name": "North Dakota",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2763268.269321378!2d-102.94663945015849!3d47.44111087258217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52d7831257d8e963%3A0xd849a39835ecfc9!2sNorth%20Dakota%2C%20USA!5e0!3m2!1sen!2sng!4v1722984880502!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "wv": {
+        "full_name": "West Virginia",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3179812.369040338!2d-82.82784576716284!3d38.89458570880278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884a54a5d4cb0945%3A0xbb00c768decd3a43!2sWest%20Virginia%2C%20USA!5e0!3m2!1sen!2sng!4v1722984900680!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "sd": {
+        "full_name": "South Dakota",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2929689.941354994!2d-102.89244195314046!3d44.1859448140736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x877d432d85e938a5%3A0x7f0d6293186a4b7!2sSouth%20Dakota%2C%20USA!5e0!3m2!1sen!2sng!4v1722984925172!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "de": {
+        "full_name": "Delaware",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d792147.9332926782!2d-76.04737742971369!3d39.14452388070495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c705764d0cd63b%3A0x941d2d128c04e878!2sDelaware%2C%20USA!5e0!3m2!1sen!2sng!4v1722984944663!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "mt": {
+        "full_name": "Montana",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2804409.933173129!2d-112.68943424589835!3d46.65280323787031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53412b9c2d7b8ad3%3A0xf571d658cf2a6c18!2sMontana%2C%20USA!5e0!3m2!1sen!2sng!4v1722984961619!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "vt": {
+        "full_name": "Vermont",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1472768.8334553947!2d-73.77340483836221!3d43.86615737513825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb4dc6c48daceff%3A0x264d897436546bb4!2sVermont%2C%20USA!5e0!3m2!1sen!2sng!4v1722984980107!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    },
+    "wy": {
+        "full_name": "Wyoming",
+        "map_code": "<iframe src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2989271.1363384477!2d-110.19879113079053!3d42.97384781208757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875ee23448e12e69%3A0x26b02279d27d382f!2sWyoming%2C%20USA!5e0!3m2!1sen!2sng!4v1722985001153!5m2!1sen!2sng' width='600' height='450' style='border:0;' allowfullscreen='' loading='lazy' referrerpolicy='no-referrer-when-downgrade'></iframe>"
+    }
+}

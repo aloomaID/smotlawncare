@@ -1,0 +1,24 @@
+﻿Nashua@@@nashua-nh
+Manchester@@@manchester-nh
+Portsmouth@@@portsmouth-nh
+Dover@@@dover-nh
+Concord@@@concord-nh
+Rochester@@@rochester-nh
+Keene@@@keene-nh
+Laconia@@@laconia-nh
+Lebanon@@@lebanon-nh
+Claremont@@@claremont-nh
+Somersworth@@@somersworth-nh
+Berlin@@@berlin-nh
+Franklin@@@franklin-nh
+South Hooksett@@@south-hooksett-nh
+Suncook@@@suncook-nh
+Pinardville@@@pinardville-nh
+East Merrimack@@@east-merrimack-nh
+Tilton Northfield@@@tilton-northfield-nh
+Hampton Beach@@@hampton-beach-nh
+North Conway@@@north-conway-nh
+Woodsville@@@woodsville-nh
+West Swanzey@@@west-swanzey-nh
+Contoocook@@@contoocook-nh
+North Haverhill@@@north-haverhill-nh

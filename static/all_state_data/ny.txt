@@ -1,0 +1,658 @@
+﻿New York@@@new-york-ny
+Brooklyn@@@brooklyn-ny
+Queens@@@queens-ny
+Manhattan@@@manhattan-ny
+Bronx@@@bronx-ny
+Buffalo@@@buffalo-ny
+Rochester@@@rochester-ny
+Albany@@@albany-ny
+Staten Island@@@staten-island-ny
+Poughkeepsie@@@poughkeepsie-ny
+Syracuse@@@syracuse-ny
+Yonkers@@@yonkers-ny
+Binghamton@@@binghamton-ny
+Utica@@@utica-ny
+New Rochelle@@@new-rochelle-ny
+Mount Vernon@@@mount-vernon-ny
+Schenectady@@@schenectady-ny
+Saratoga Springs@@@saratoga-springs-ny
+Brentwood@@@brentwood-ny
+Glens Falls@@@glens-falls-ny
+Elmira@@@elmira-ny
+White Plains@@@white-plains-ny
+Levittown@@@levittown-ny
+Troy@@@troy-ny
+Niagara Falls@@@niagara-falls-ny
+Freeport@@@freeport-ny
+West Babylon@@@west-babylon-ny
+Hicksville@@@hicksville-ny
+Coram@@@coram-ny
+Valley Stream@@@valley-stream-ny
+East Meadow@@@east-meadow-ny
+Elmont@@@elmont-ny
+Central Islip@@@central-islip-ny
+Commack@@@commack-ny
+Long Beach@@@long-beach-ny
+New City@@@new-city-ny
+Huntington Station@@@huntington-station-ny
+Baldwin@@@baldwin-ny
+Spring Valley@@@spring-valley-ny
+Uniondale@@@uniondale-ny
+Kiryas Joel@@@kiryas-joel-ny
+Franklin Square@@@franklin-square-ny
+Rome@@@rome-ny
+Centereach@@@centereach-ny
+Ithaca@@@ithaca-ny
+Bay Shore@@@bay-shore-ny
+Port Chester@@@port-chester-ny
+Oceanside@@@oceanside-ny
+North Tonawanda@@@north-tonawanda-ny
+Middletown@@@middletown-ny
+Jamestown@@@jamestown-ny
+Harrison@@@harrison-ny
+Glen Cove@@@glen-cove-ny
+Shirley@@@shirley-ny
+West Islip@@@west-islip-ny
+Monsey@@@monsey-ny
+Lindenhurst@@@lindenhurst-ny
+Holbrook@@@holbrook-ny
+Auburn@@@auburn-ny
+Deer Park@@@deer-park-ny
+Plainview@@@plainview-ny
+Rockville Centre@@@rockville-centre-ny
+Peekskill@@@peekskill-ny
+Watertown@@@watertown-ny
+Dix Hills@@@dix-hills-ny
+Medford@@@medford-ny
+Kingston@@@kingston-ny
+Copiague@@@copiague-ny
+Garden City@@@garden-city-ny
+Massapequa@@@massapequa-ny
+East Patchogue@@@east-patchogue-ny
+North Bellmore@@@north-bellmore-ny
+Selden@@@selden-ny
+Merrick@@@merrick-ny
+Lockport@@@lockport-ny
+Mineola@@@mineola-ny
+West Hempstead@@@west-hempstead-ny
+Lynbrook@@@lynbrook-ny
+East Northport@@@east-northport-ny
+Plattsburgh@@@plattsburgh-ny
+Hauppauge@@@hauppauge-ny
+North Amityville@@@north-amityville-ny
+Lackawanna@@@lackawanna-ny
+Nanuet@@@nanuet-ny
+Holtsville@@@holtsville-ny
+Syosset@@@syosset-ny
+East Massapequa@@@east-massapequa-ny
+North Babylon@@@north-babylon-ny
+Ronkonkoma@@@ronkonkoma-ny
+North Massapequa@@@north-massapequa-ny
+Melville@@@melville-ny
+North Bay Shore@@@north-bay-shore-ny
+North Valley Stream@@@north-valley-stream-ny
+Wantagh@@@wantagh-ny
+Amsterdam@@@amsterdam-ny
+Lake Ronkonkoma@@@lake-ronkonkoma-ny
+Scarsdale@@@scarsdale-ny
+Roosevelt@@@roosevelt-ny
+Cohoes@@@cohoes-ny
+Bethpage@@@bethpage-ny
+Cortland@@@cortland-ny
+Woodmere@@@woodmere-ny
+Massapequa Park@@@massapequa-park-ny
+Oswego@@@oswego-ny
+Farmingville@@@farmingville-ny
+Port Washington@@@port-washington-ny
+Bellmore@@@bellmore-ny
+Hampton Bays@@@hampton-bays-ny
+Pearl River@@@pearl-river-ny
+Sayville@@@sayville-ny
+Floral Park@@@floral-park-ny
+Kings Park@@@kings-park-ny
+Fort Drum@@@fort-drum-ny
+New Cassel@@@new-cassel-ny
+Westbury@@@westbury-ny
+Seaford@@@seaford-ny
+Mastic@@@mastic-ny
+Batavia@@@batavia-ny
+Mastic Beach@@@mastic-beach-ny
+Johnson City@@@johnson-city-ny
+Gloversville@@@gloversville-ny
+Kenmore@@@kenmore-ny
+Depew@@@depew-ny
+Tonawanda@@@tonawanda-ny
+North New Hyde Park@@@north-new-hyde-park-ny
+Greenlawn@@@greenlawn-ny
+South Farmingdale@@@south-farmingdale-ny
+Eggertsville@@@eggertsville-ny
+Jericho@@@jericho-ny
+Jefferson Valley-Yorktown@@@jefferson-valley-yorktown-ny
+Latham@@@latham-ny
+St. James@@@st-james-ny
+Olean@@@olean-ny
+Beacon@@@beacon-ny
+Wyandanch@@@wyandanch-ny
+Endicott@@@endicott-ny
+Rocky Point@@@rocky-point-ny
+Nesconset@@@nesconset-ny
+Ridge@@@ridge-ny
+Oneonta@@@oneonta-ny
+Dunkirk@@@dunkirk-ny
+Salisbury@@@salisbury-ny
+East Islip@@@east-islip-ny
+Geneva@@@geneva-ny
+North Merrick@@@north-merrick-ny
+Patchogue@@@patchogue-ny
+Miller Place@@@miller-place-ny
+Manorville@@@manorville-ny
+Stony Brook@@@stony-brook-ny
+Roessleville@@@roessleville-ny
+Tarrytown@@@tarrytown-ny
+North Wantagh@@@north-wantagh-ny
+Endwell@@@endwell-ny
+Elwood@@@elwood-ny
+East Glenville@@@east-glenville-ny
+Dobbs Ferry@@@dobbs-ferry-ny
+Fulton@@@fulton-ny
+Suffern@@@suffern-ny
+Woodbury@@@woodbury-ny
+North Lindenhurst@@@north-lindenhurst-ny
+De Witt@@@de-witt-ny
+Middle Island@@@middle-island-ny
+Lake Grove@@@lake-grove-ny
+Great Neck@@@great-neck-ny
+Terryville@@@terryville-ny
+Mount Sinai@@@mount-sinai-ny
+Mount Kisco@@@mount-kisco-ny
+Corning@@@corning-ny
+West Haverstraw@@@west-haverstraw-ny
+Scotchtown@@@scotchtown-ny
+Inwood@@@inwood-ny
+Oneida@@@oneida-ny
+North Bellport@@@north-bellport-ny
+Myers Corner@@@myers-corner-ny
+Watervliet@@@watervliet-ny
+South Huntington@@@south-huntington-ny
+Fairmount@@@fairmount-ny
+New Hyde Park@@@new-hyde-park-ny
+Chestnut Ridge@@@chestnut-ridge-ny
+Sleepy Hollow@@@sleepy-hollow-ny
+Orange Lake@@@orange-lake-ny
+Ogdensburg@@@ogdensburg-ny
+Loudonville@@@loudonville-ny
+East Rockaway@@@east-rockaway-ny
+Fredonia@@@fredonia-ny
+Airmont@@@airmont-ny
+East Setauket@@@east-setauket-ny
+Rye Brook@@@rye-brook-ny
+Fort Salonga@@@fort-salonga-ny
+Amityville@@@amityville-ny
+Bohemia@@@bohemia-ny
+North Gates@@@north-gates-ny
+New Square@@@new-square-ny
+Plainedge@@@plainedge-ny
+Greenville@@@greenville-ny
+West Glens Falls@@@west-glens-falls-ny
+Rensselaer@@@rensselaer-ny
+Springs@@@springs-ny
+Glens Falls North@@@glens-falls-north-ny
+Woodbury@@@woodbury-ny
+Newark@@@newark-ny
+Stony Brook University@@@stony-brook-university-ny
+Bayport@@@bayport-ny
+Port Jervis@@@port-jervis-ny
+Valley Cottage@@@valley-cottage-ny
+Hillcrest@@@hillcrest-ny
+Malverne@@@malverne-ny
+Mahopac@@@mahopac-ny
+Hastings-On-Hudson@@@hastings-on-hudson-ny
+South Lockport@@@south-lockport-ny
+Farmingdale@@@farmingdale-ny
+Wading River@@@wading-river-ny
+Croton-On-Hudson@@@croton-on-hudson-ny
+Hornell@@@hornell-ny
+Johnstown@@@johnstown-ny
+North Patchogue@@@north-patchogue-ny
+Manhasset@@@manhasset-ny
+Port Jefferson@@@port-jefferson-ny
+Center Moriches@@@center-moriches-ny
+Congers@@@congers-ny
+Lake Carmel@@@lake-carmel-ny
+Ilion@@@ilion-ny
+Garden City Park@@@garden-city-park-ny
+Mount Ivy@@@mount-ivy-ny
+Mechanicstown@@@mechanicstown-ny
+Baldwinsville@@@baldwinsville-ny
+Westmere@@@westmere-ny
+Port Jefferson Station@@@port-jefferson-station-ny
+Briarcliff Manor@@@briarcliff-manor-ny
+Williston Park@@@williston-park-ny
+Pleasantville@@@pleasantville-ny
+Great Neck Plaza@@@great-neck-plaza-ny
+Hudson Falls@@@hudson-falls-ny
+Northport@@@northport-ny
+Scotia@@@scotia-ny
+Nyack@@@nyack-ny
+Cedarhurst@@@cedarhurst-ny
+Sound Beach@@@sound-beach-ny
+Oakdale@@@oakdale-ny
+Hewlett@@@hewlett-ny
+Brockport@@@brockport-ny
+East Shoreham@@@east-shoreham-ny
+East Hills@@@east-hills-ny
+Radisson@@@radisson-ny
+Monticello@@@monticello-ny
+Baywood@@@baywood-ny
+Tappan@@@tappan-ny
+Viola@@@viola-ny
+South Hill@@@south-hill-ny
+Tuckahoe@@@tuckahoe-ny
+Norwich@@@norwich-ny
+Manorhaven@@@manorhaven-ny
+Walden@@@walden-ny
+North Syracuse@@@north-syracuse-ny
+Lawrence@@@lawrence-ny
+Bayville@@@bayville-ny
+Roslyn Heights@@@roslyn-heights-ny
+South Valley Stream@@@south-valley-stream-ny
+Solvay@@@solvay-ny
+Irvington@@@irvington-ny
+Bronxville@@@bronxville-ny
+Larchmont@@@larchmont-ny
+Highland@@@highland-ny
+Gananda@@@gananda-ny
+West Point@@@west-point-ny
+Flanders@@@flanders-ny
+Binghamton University@@@binghamton-university-ny
+East Rochester@@@east-rochester-ny
+Mattydale@@@mattydale-ny
+North Sea@@@north-sea-ny
+Wesley Hills@@@wesley-hills-ny
+East Aurora@@@east-aurora-ny
+Harris Hill@@@harris-hill-ny
+Wappingers Falls@@@wappingers-falls-ny
+Lakeview@@@lakeview-ny
+East Farmingdale@@@east-farmingdale-ny
+Fairview@@@fairview-ny
+Calverton@@@calverton-ny
+University At Buffalo@@@university-at-buffalo-ny
+Centerport@@@centerport-ny
+Hilton@@@hilton-ny
+Hudson@@@hudson-ny
+Medina@@@medina-ny
+Salamanca@@@salamanca-ny
+Washingtonville@@@washingtonville-ny
+Rochester Institute Of Technology@@@rochester-institute-of-technology-ny
+Yaphank@@@yaphank-ny
+Pelham Manor@@@pelham-manor-ny
+Lake Mohegan@@@lake-mohegan-ny
+Old Bethpage@@@old-bethpage-ny
+Islip Terrace@@@islip-terrace-ny
+Hampton Manor@@@hampton-manor-ny
+Ballston Spa@@@ballston-spa-ny
+Kings Point@@@kings-point-ny
+Country Knolls@@@country-knolls-ny
+Fairport@@@fairport-ny
+North Hills@@@north-hills-ny
+New Hempstead@@@new-hempstead-ny
+Kaser@@@kaser-ny
+Williamsville@@@williamsville-ny
+Albion@@@albion-ny
+Penn Yan@@@penn-yan-ny
+Firthcliffe@@@firthcliffe-ny
+Blauvelt@@@blauvelt-ny
+West Hills@@@west-hills-ny
+East Hampton North@@@east-hampton-north-ny
+Mechanicville@@@mechanicville-ny
+Carle Place@@@carle-place-ny
+Elmsford@@@elmsford-ny
+Westvale@@@westvale-ny
+Northwest Harbor@@@northwest-harbor-ny
+Wheatley Heights@@@wheatley-heights-ny
+Grandyle Village@@@grandyle-village-ny
+East Moriches@@@east-moriches-ny
+Sea Cliff@@@sea-cliff-ny
+East Quogue@@@east-quogue-ny
+Albertson@@@albertson-ny
+Saranac Lake@@@saranac-lake-ny
+Ardsley@@@ardsley-ny
+West Sayville@@@west-sayville-ny
+West Elmira@@@west-elmira-ny
+Chittenango@@@chittenango-ny
+Island Park@@@island-park-ny
+Noyack@@@noyack-ny
+Glen Head@@@glen-head-ny
+Blue Point@@@blue-point-ny
+Flower Hill@@@flower-hill-ny
+Gang Mills@@@gang-mills-ny
+Brewerton@@@brewerton-ny
+Montebello@@@montebello-ny
+Little Falls@@@little-falls-ny
+Dansville@@@dansville-ny
+Hawthorne@@@hawthorne-ny
+Canastota@@@canastota-ny
+Orangeburg@@@orangeburg-ny
+Mattituck@@@mattituck-ny
+Old Westbury@@@old-westbury-ny
+Searingtown@@@searingtown-ny
+West Bay Shore@@@west-bay-shore-ny
+Menands@@@menands-ny
+Thiells@@@thiells-ny
+Armonk@@@armonk-ny
+Gordon Heights@@@gordon-heights-ny
+Thornwood@@@thornwood-ny
+Galeville@@@galeville-ny
+Waverly@@@waverly-ny
+Fayetteville@@@fayetteville-ny
+Montauk@@@montauk-ny
+Elmira Heights@@@elmira-heights-ny
+Gardnertown@@@gardnertown-ny
+Springville@@@springville-ny
+Red Oaks Mill@@@red-oaks-mill-ny
+Ellenville@@@ellenville-ny
+Lyncourt@@@lyncourt-ny
+Herricks@@@herricks-ny
+Spackenkill@@@spackenkill-ny
+University Gardens@@@university-gardens-ny
+Calcium@@@calcium-ny
+Chester@@@chester-ny
+Garden City South@@@garden-city-south-ny
+Akwesasne@@@akwesasne-ny
+Heritage Hills@@@heritage-hills-ny
+Cayuga Heights@@@cayuga-heights-ny
+Setauket@@@setauket-ny
+Highland-On-The-Lake@@@highland-on-the-lake-ny
+Clifton Knolls-Mill Creek@@@clifton-knolls-mill-creek-ny
+Manhasset Hills@@@manhasset-hills-ny
+Putnam Lake@@@putnam-lake-ny
+Village Green@@@village-green-ny
+West Nyack@@@west-nyack-ny
+South Blooming Grove@@@south-blooming-grove-ny
+Westhampton@@@westhampton-ny
+Glenwood Landing@@@glenwood-landing-ny
+Marlboro@@@marlboro-ny
+Suny Oswego@@@suny-oswego-ny
+Sloan@@@sloan-ny
+Highland Falls@@@highland-falls-ny
+South Glens Falls@@@south-glens-falls-ny
+Elma Center@@@elma-center-ny
+Walton Park@@@walton-park-ny
+Bardonia@@@bardonia-ny
+Spencerport@@@spencerport-ny
+Whitesboro@@@whitesboro-ny
+Minoa@@@minoa-ny
+Locust Valley@@@locust-valley-ny
+Port Ewen@@@port-ewen-ny
+Lloyd Harbor@@@lloyd-harbor-ny
+Wynantskill@@@wynantskill-ny
+Islandia@@@islandia-ny
+Muttontown@@@muttontown-ny
+Haviland@@@haviland-ny
+Balmville@@@balmville-ny
+Montrose@@@montrose-ny
+North Great River@@@north-great-river-ny
+Wanakah@@@wanakah-ny
+Carthage@@@carthage-ny
+Riverside@@@riverside-ny
+Clarence Center@@@clarence-center-ny
+Chenango Bridge@@@chenango-bridge-ny
+Pomona@@@pomona-ny
+New York Mills@@@new-york-mills-ny
+South Hempstead@@@south-hempstead-ny
+Ravena@@@ravena-ny
+Lake Erie Beach@@@lake-erie-beach-ny
+Gowanda@@@gowanda-ny
+Hoosick Falls@@@hoosick-falls-ny
+Port Washington North@@@port-washington-north-ny
+Brightwaters@@@brightwaters-ny
+Harriman@@@harriman-ny
+Northeast Ithaca@@@northeast-ithaca-ny
+Maybrook@@@maybrook-ny
+Valhalla@@@valhalla-ny
+Cutchogue@@@cutchogue-ny
+West Sand Lake@@@west-sand-lake-ny
+East Syracuse@@@east-syracuse-ny
+Baiting Hollow@@@baiting-hollow-ny
+Shrub Oak@@@shrub-oak-ny
+Cold Spring Harbor@@@cold-spring-harbor-ny
+Chappaqua@@@chappaqua-ny
+Cornwall-On-Hudson@@@cornwall-on-hudson-ny
+Greenwood Lake@@@greenwood-lake-ny
+Sherrill@@@sherrill-ny
+Crown Heights@@@crown-heights-ny
+Sloatsburg@@@sloatsburg-ny
+Lake Delta@@@lake-delta-ny
+Lakewood@@@lakewood-ny
+Roslyn@@@roslyn-ny
+Hartsdale@@@hartsdale-ny
+Green Island@@@green-island-ny
+Brookville@@@brookville-ny
+Great Neck Estates@@@great-neck-estates-ny
+Florida@@@florida-ny
+Vails Gate@@@vails-gate-ny
+Akron@@@akron-ny
+Lido Beach@@@lido-beach-ny
+East Norwich@@@east-norwich-ny
+Lake Success@@@lake-success-ny
+Keeseville@@@keeseville-ny
+Voorheesville@@@voorheesville-ny
+Munsey Park@@@munsey-park-ny
+South Nyack@@@south-nyack-ny
+Munsons Corners@@@munsons-corners-ny
+Honeoye Falls@@@honeoye-falls-ny
+Angola@@@angola-ny
+Fallsburg@@@fallsburg-ny
+Horseheads North@@@horseheads-north-ny
+Thomaston@@@thomaston-ny
+Vassar College@@@vassar-college-ny
+Sands Point@@@sands-point-ny
+Moriches@@@moriches-ny
+Arlington@@@arlington-ny
+Brewster Hill@@@brewster-hill-ny
+Yorkville@@@yorkville-ny
+East Williston@@@east-williston-ny
+Bedford Hills@@@bedford-hills-ny
+Halesite@@@halesite-ny
+Silver Creek@@@silver-creek-ny
+Phoenix@@@phoenix-ny
+Clifton Gardens@@@clifton-gardens-ny
+North Boston@@@north-boston-ny
+Lakeland@@@lakeland-ny
+Jamestown West@@@jamestown-west-ny
+Blasdell@@@blasdell-ny
+Piermont@@@piermont-ny
+Barnum Island@@@barnum-island-ny
+Brewster@@@brewster-ny
+Sag Harbor@@@sag-harbor-ny
+Lake Katrine@@@lake-katrine-ny
+Brinckerhoff@@@brinckerhoff-ny
+Beaver Dam Lake@@@beaver-dam-lake-ny
+Tioga Terrace@@@tioga-terrace-ny
+Dolgeville@@@dolgeville-ny
+Lincoln Park@@@lincoln-park-ny
+Upper Nyack@@@upper-nyack-ny
+Kerhonkson@@@kerhonkson-ny
+Rouses Point@@@rouses-point-ny
+Falconer@@@falconer-ny
+Siena College@@@siena-college-ny
+Scottsville@@@scottsville-ny
+East Ithaca@@@east-ithaca-ny
+Mountain Lodge Park@@@mountain-lodge-park-ny
+Stewart Manor@@@stewart-manor-ny
+Buchanan@@@buchanan-ny
+Liverpool@@@liverpool-ny
+Westhampton Beach@@@westhampton-beach-ny
+Crompond@@@crompond-ny
+Lake Placid@@@lake-placid-ny
+Glasco@@@glasco-ny
+Nedrow@@@nedrow-ny
+Greenport West@@@greenport-west-ny
+Great River@@@great-river-ny
+West End@@@west-end-ny
+Marist College@@@marist-college-ny
+Pulaski@@@pulaski-ny
+Apalachin@@@apalachin-ny
+Dundee@@@dundee-ny
+Washington Mills@@@washington-mills-ny
+Bellerose Terrace@@@bellerose-terrace-ny
+Melrose Park@@@melrose-park-ny
+Lattingtown@@@lattingtown-ny
+Water Mill@@@water-mill-ny
+Eastport@@@eastport-ny
+Central Square@@@central-square-ny
+St. Bonaventure@@@st-bonaventure-ny
+Stone Ridge@@@stone-ridge-ny
+Churchville@@@churchville-ny
+Northwest Ithaca@@@northwest-ithaca-ny
+Washington Heights@@@washington-heights-ny
+Cooperstown@@@cooperstown-ny
+Clyde@@@clyde-ny
+Conesus Lake@@@conesus-lake-ny
+Saugerties South@@@saugerties-south-ny
+Rock Hill@@@rock-hill-ny
+Shinnecock Hills@@@shinnecock-hills-ny
+Laurel Hollow@@@laurel-hollow-ny
+Oyster Bay Cove@@@oyster-bay-cove-ny
+Weedsport@@@weedsport-ny
+Holley@@@holley-ny
+Bellport@@@bellport-ny
+Clifton Springs@@@clifton-springs-ny
+Yorktown Heights@@@yorktown-heights-ny
+Seneca Knolls@@@seneca-knolls-ny
+Aquebogue@@@aquebogue-ny
+Hamilton College@@@hamilton-college-ny
+Lorenz Park@@@lorenz-park-ny
+South Floral Park@@@south-floral-park-ny
+Clinton@@@clinton-ny
+Cold Spring@@@cold-spring-ny
+Katonah@@@katonah-ny
+Port Dickinson@@@port-dickinson-ny
+Remsenburg-Speonk@@@remsenburg-speonk-ny
+Montour Falls@@@montour-falls-ny
+Morrisville@@@morrisville-ny
+Shenorock@@@shenorock-ny
+Clintondale@@@clintondale-ny
+Watkins Glen@@@watkins-glen-ny
+Town Line@@@town-line-ny
+Youngstown@@@youngstown-ny
+Fort Plain@@@fort-plain-ny
+Shortsville@@@shortsville-ny
+Middleport@@@middleport-ny
+Billington Heights@@@billington-heights-ny
+Northville@@@northville-ny
+Fort Montgomery@@@fort-montgomery-ny
+Old Brookville@@@old-brookville-ny
+East Atlantic Beach@@@east-atlantic-beach-ny
+Upper Brookville@@@upper-brookville-ny
+Tillson@@@tillson-ny
+Black River@@@black-river-ny
+Village Of The Branch@@@village-of-the-branch-ny
+Huntington Bay@@@huntington-bay-ny
+Walker Valley@@@walker-valley-ny
+Waterville@@@waterville-ny
+Merritt Park@@@merritt-park-ny
+Crest View Heights@@@crest-view-heights-ny
+Altamont@@@altamont-ny
+Peach Lake@@@peach-lake-ny
+Houghton@@@houghton-ny
+Trumansburg@@@trumansburg-ny
+Pine Bush@@@pine-bush-ny
+Frewsburg@@@frewsburg-ny
+Clark Mills@@@clark-mills-ny
+Nissequogue@@@nissequogue-ny
+West Hurley@@@west-hurley-ny
+Painted Post@@@painted-post-ny
+Averill Park@@@averill-park-ny
+Valatie@@@valatie-ny
+Golden'S Bridge@@@goldens-bridge-ny
+Jamesport@@@jamesport-ny
+Bridgeport@@@bridgeport-ny
+Otisville@@@otisville-ny
+Angola On The Lake@@@angola-on-the-lake-ny
+Schuylerville@@@schuylerville-ny
+Head Of The Harbor@@@head-of-the-harbor-ny
+Norwood@@@norwood-ny
+Jordan@@@jordan-ny
+Sackets Harbor@@@sackets-harbor-ny
+Crugers@@@crugers-ny
+Loch Sheldrake@@@loch-sheldrake-ny
+Bard College@@@bard-college-ny
+West Carthage@@@west-carthage-ny
+Brocton@@@brocton-ny
+Mayville@@@mayville-ny
+Milton@@@milton-ny
+Bridgehampton@@@bridgehampton-ny
+Castleton-On-Hudson@@@castleton-on-hudson-ny
+Ransomville@@@ransomville-ny
+Bloomfield@@@bloomfield-ny
+Lincolndale@@@lincolndale-ny
+Philmont@@@philmont-ny
+Gasport@@@gasport-ny
+Morrisonville@@@morrisonville-ny
+Roslyn Estates@@@roslyn-estates-ny
+Millbrook@@@millbrook-ny
+Wingdale@@@wingdale-ny
+Great Bend@@@great-bend-ny
+Atlantic Beach@@@atlantic-beach-ny
+Cumberland Head@@@cumberland-head-ny
+New Hackensack@@@new-hackensack-ny
+Harbor Isle@@@harbor-isle-ny
+Sparkill@@@sparkill-ny
+North Ballston Spa@@@north-ballston-spa-ny
+Mcgraw@@@mcgraw-ny
+East Marion@@@east-marion-ny
+Bay Park@@@bay-park-ny
+Saint John Fisher College@@@saint-john-fisher-college-ny
+Hurleyville@@@hurleyville-ny
+Delevan@@@delevan-ny
+Shokan@@@shokan-ny
+Sleepy Hollow Lake@@@sleepy-hollow-lake-ny
+Kensington@@@kensington-ny
+Cortland West@@@cortland-west-ny
+Union Springs@@@union-springs-ny
+Hillside Lake@@@hillside-lake-ny
+Dover Plains@@@dover-plains-ny
+Macdonnell Heights@@@macdonnell-heights-ny
+Sanborn@@@sanborn-ny
+Celoron@@@celoron-ny
+Weston Mills@@@weston-mills-ny
+Plandome@@@plandome-ny
+Great Neck Gardens@@@great-neck-gardens-ny
+Richfield Springs@@@richfield-springs-ny
+Eatons Neck@@@eatons-neck-ny
+Wurtsboro@@@wurtsboro-ny
+Nazareth College@@@nazareth-college-ny
+Hagaman@@@hagaman-ny
+Plattsburgh West@@@plattsburgh-west-ny
+Stottville@@@stottville-ny
+Sand Ridge@@@sand-ridge-ny
+Brewster Heights@@@brewster-heights-ny
+Chelsea Cove@@@chelsea-cove-ny
+Point Lookout@@@point-lookout-ny
+Bellerose@@@bellerose-ny
+Niverville@@@niverville-ny
+Shelter Island Heights@@@shelter-island-heights-ny
+Mineville@@@mineville-ny
+Oriskany@@@oriskany-ny
+Keuka Park@@@keuka-park-ny
+Saddle Rock@@@saddle-rock-ny
+Mill Neck@@@mill-neck-ny
+Poquott@@@poquott-ny
+Rapids@@@rapids-ny
+Olcott@@@olcott-ny
+North Hornell@@@north-hornell-ny
+Hillburn@@@hillburn-ny
+Niagara University@@@niagara-university-ny
+Fair Haven@@@fair-haven-ny
+Alexandria Bay@@@alexandria-bay-ny
+Sparrow Bush@@@sparrow-bush-ny
+Whitney Point@@@whitney-point-ny
+South Fallsburg@@@south-fallsburg-ny
+Cattaraugus@@@cattaraugus-ny
+South Corning@@@south-corning-ny
+Baxter Estates@@@baxter-estates-ny
+Orient@@@orient-ny
+Hewlett Harbor@@@hewlett-harbor-ny
+Port Byron@@@port-byron-ny
+Chadwicks@@@chadwicks-ny

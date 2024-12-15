@@ -1,0 +1,74 @@
+﻿Anchorage@@@anchorage-ak
+Fairbanks@@@fairbanks-ak
+Juneau@@@juneau-ak
+Badger@@@badger-ak
+Knik-Fairview@@@knik-fairview-ak
+College@@@college-ak
+Tanaina@@@tanaina-ak
+North Lakes@@@north-lakes-ak
+Wasilla@@@wasilla-ak
+Sitka@@@sitka-ak
+Kalifornsky@@@kalifornsky-ak
+Meadow Lakes@@@meadow-lakes-ak
+Ketchikan@@@ketchikan-ak
+Kenai@@@kenai-ak
+Steele Creek@@@steele-creek-ak
+South Lakes@@@south-lakes-ak
+Gateway@@@gateway-ak
+Bethel@@@bethel-ak
+Sterling@@@sterling-ak
+Palmer@@@palmer-ak
+Kodiak@@@kodiak-ak
+Chena Ridge@@@chena-ridge-ak
+Homer@@@homer-ak
+Utqiagvik@@@utqiagvik-ak
+Fishhook@@@fishhook-ak
+Soldotna@@@soldotna-ak
+Unalaska@@@unalaska-ak
+Nikiski@@@nikiski-ak
+Farmers Loop@@@farmers-loop-ak
+Valdez@@@valdez-ak
+Butte@@@butte-ak
+Mill Bay@@@mill-bay-ak
+Nome@@@nome-ak
+Petersburg@@@petersburg-ak
+Eielson Afb@@@eielson-af-ak
+Kotzebue@@@kotzebue-ak
+Big Lake@@@big-lake-ak
+North Pole@@@north-pole-ak
+Goldstream@@@goldstream-ak
+Ester@@@ester-ak
+Ridgeway@@@ridgeway-ak
+Seward@@@seward-ak
+Cordova@@@cordova-ak
+Farm Loop@@@farm-loop-ak
+Anchor Point@@@anchor-point-ak
+Kodiak Station@@@kodiak-station-ak
+Wrangell@@@wrangell-ak
+Fritz Creek@@@fritz-creek-ak
+Dillingham@@@dillingham-ak
+Deltana@@@deltana-ak
+Willow@@@willow-ak
+Lazy Mountain@@@lazy-mountain-ak
+Houston@@@houston-ak
+Haines@@@haines-ak
+Cohoe@@@cohoe-ak
+Bear Creek@@@bear-creek-ak
+Prudhoe Bay@@@prudhoe-bay-ak
+Metlakatla@@@metlakatla-ak
+Diamond Ridge@@@diamond-ridge-ak
+Point Mackenzie@@@point-mackenzie-ak
+Tok@@@tok-ak
+Delta Junction@@@delta-junction-ak
+Kotlik@@@kotlik-ak
+King Cove@@@king-cove-ak
+Sutton-Alpine@@@sutton-alpine-ak
+Skagway@@@skagway-ak
+Susitna North@@@susitna-north-ak
+Salamatof@@@salamatof-ak
+Sand Point@@@sand-point-ak
+Craig@@@craig-ak
+Tuntutuliak@@@tuntutuliak-ak
+Alakanuk@@@alakanuk-ak
+Emmonak@@@emmonak-ak
+Funny River@@@funny-river-ak

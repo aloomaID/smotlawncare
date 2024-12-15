@@ -1,0 +1,55 @@
+﻿Fargo@@@fargo-nd
+Bismarck@@@bismarck-nd
+Grand Forks@@@grand-forks-nd
+Minot@@@minot-nd
+West Fargo@@@west-fargo-nd
+Williston@@@williston-nd
+Dickinson@@@dickinson-nd
+Mandan@@@mandan-nd
+Jamestown@@@jamestown-nd
+Wahpeton@@@wahpeton-nd
+Valley City@@@valley-city-nd
+Watford City@@@watford-city-nd
+Minot Afb@@@minot-af-nd
+Grafton@@@grafton-nd
+Lincoln@@@lincoln-nd
+Horace@@@horace-nd
+Beulah@@@beulah-nd
+New Town@@@new-town-nd
+Grand Forks Afb@@@grand-forks-af-nd
+Hazen@@@hazen-nd
+Rugby@@@rugby-nd
+Casselton@@@casselton-nd
+Bottineau@@@bottineau-nd
+Carrington@@@carrington-nd
+Lisbon@@@lisbon-nd
+Stanley@@@stanley-nd
+Oakes@@@oakes-nd
+Mayville@@@mayville-nd
+Langdon@@@langdon-nd
+Belcourt@@@belcourt-nd
+Harvey@@@harvey-nd
+Hillsboro@@@hillsboro-nd
+Bowman@@@bowman-nd
+Garrison@@@garrison-nd
+Park River@@@park-river-nd
+Washburn@@@washburn-nd
+Burlington@@@burlington-nd
+Surrey@@@surrey-nd
+Larimore@@@larimore-nd
+New Rockford@@@new-rockford-nd
+Cavalier@@@cavalier-nd
+Tioga@@@tioga-nd
+Parshall@@@parshall-nd
+Cando@@@cando-nd
+Shell Valley@@@shell-valley-nd
+Thompson@@@thompson-nd
+Rolla@@@rolla-nd
+Mapleton@@@mapleton-nd
+Fort Totten@@@fort-totten-nd
+Velva@@@velva-nd
+Hettinger@@@hettinger-nd
+Crosby@@@crosby-nd
+Ellendale@@@ellendale-nd
+Enderlin@@@enderlin-nd
+Beach@@@beach-nd

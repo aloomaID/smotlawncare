@@ -1,0 +1,242 @@
+﻿Louisville@@@louisville-ky
+Lexington@@@lexington-ky
+Bowling Green@@@bowling-green-ky
+Elizabethtown@@@elizabethtown-ky
+Owensboro@@@owensboro-ky
+Covington@@@covington-ky
+Georgetown@@@georgetown-ky
+Richmond@@@richmond-ky
+Florence@@@florence-ky
+Nicholasville@@@nicholasville-ky
+Hopkinsville@@@hopkinsville-ky
+Jeffersontown@@@jeffersontown-ky
+Frankfort@@@frankfort-ky
+Independence@@@independence-ky
+Henderson@@@henderson-ky
+Paducah@@@paducah-ky
+Radcliff@@@radcliff-ky
+Ashland@@@ashland-ky
+Madisonville@@@madisonville-ky
+Erlanger@@@erlanger-ky
+Winchester@@@winchester-ky
+Burlington@@@burlington-ky
+Mount Washington@@@mount-washington-ky
+St. Matthews@@@st-matthews-ky
+Fort Thomas@@@fort-thomas-ky
+Murray@@@murray-ky
+Danville@@@danville-ky
+Shelbyville@@@shelbyville-ky
+Shively@@@shively-ky
+Berea@@@berea-ky
+Glasgow@@@glasgow-ky
+Newport@@@newport-ky
+Shepherdsville@@@shepherdsville-ky
+Bardstown@@@bardstown-ky
+Fort Campbell North@@@fort-campbell-north-ky
+Somerset@@@somerset-ky
+Lawrenceburg@@@lawrenceburg-ky
+Campbellsville@@@campbellsville-ky
+Lyndon@@@lyndon-ky
+Paris@@@paris-ky
+Versailles@@@versailles-ky
+Alexandria@@@alexandria-ky
+Francisville@@@francisville-ky
+Mayfield@@@mayfield-ky
+La Grange@@@la-grange-ky
+Franklin@@@franklin-ky
+Oakbrook@@@oakbrook-ky
+Middlesborough@@@middlesborough-ky
+Middletown@@@middletown-ky
+Elsmere@@@elsmere-ky
+Harrodsburg@@@harrodsburg-ky
+Fort Knox@@@fort-knox-ky
+Maysville@@@maysville-ky
+Hillview@@@hillview-ky
+Fort Mitchell@@@fort-mitchell-ky
+Edgewood@@@edgewood-ky
+Corbin@@@corbin-ky
+Oak Grove@@@oak-grove-ky
+Mount Sterling@@@mount-sterling-ky
+London@@@london-ky
+Pikeville@@@pikeville-ky
+Villa Hills@@@villa-hills-ky
+Flatwoods@@@flatwoods-ky
+Union@@@union-ky
+Russellville@@@russellville-ky
+Morehead@@@morehead-ky
+Highland Heights@@@highland-heights-ky
+Taylor Mill@@@taylor-mill-ky
+Hebron@@@hebron-ky
+Leitchfield@@@leitchfield-ky
+Vine Grove@@@vine-grove-ky
+Cynthiana@@@cynthiana-ky
+Cold Spring@@@cold-spring-ky
+Princeton@@@princeton-ky
+Lebanon@@@lebanon-ky
+Crestwood@@@crestwood-ky
+Wilmore@@@wilmore-ky
+Central City@@@central-city-ky
+Fort Wright@@@fort-wright-ky
+Monticello@@@monticello-ky
+Dayton@@@dayton-ky
+Bellevue@@@bellevue-ky
+Douglass Hills@@@douglass-hills-ky
+Buckner@@@buckner-ky
+Walton@@@walton-ky
+Williamsburg@@@williamsburg-ky
+Hazard@@@hazard-ky
+Hendron@@@hendron-ky
+Columbia@@@columbia-ky
+Benton@@@benton-ky
+Westwood@@@westwood-ky
+Prospect@@@prospect-ky
+Hurstbourne@@@hurstbourne-ky
+Massac@@@massac-ky
+Greenville@@@greenville-ky
+Reidland@@@reidland-ky
+Farley@@@farley-ky
+Ludlow@@@ludlow-ky
+Paintsville@@@paintsville-ky
+Scottsville@@@scottsville-ky
+Crescent Springs@@@crescent-springs-ky
+Prestonsburg@@@prestonsburg-ky
+Crittenden@@@crittenden-ky
+Williamstown@@@williamstown-ky
+Carrollton@@@carrollton-ky
+Lancaster@@@lancaster-ky
+Grayson@@@grayson-ky
+Russell@@@russell-ky
+Southgate@@@southgate-ky
+Stanford@@@stanford-ky
+Beaver Dam@@@beaver-dam-ky
+Crestview Hills@@@crestview-hills-ky
+Hodgenville@@@hodgenville-ky
+Morganfield@@@morganfield-ky
+West Liberty@@@west-liberty-ky
+Claryville@@@claryville-ky
+Park Hills@@@park-hills-ky
+Wilder@@@wilder-ky
+Stanton@@@stanton-ky
+Barbourville@@@barbourville-ky
+Simpsonville@@@simpsonville-ky
+Providence@@@providence-ky
+Flemingsburg@@@flemingsburg-ky
+Graymoor-Devondale@@@graymoor-devondale-ky
+Indian Hills@@@indian-hills-ky
+Marion@@@marion-ky
+Brandenburg@@@brandenburg-ky
+Lakeside Park@@@lakeside-park-ky
+Springfield@@@springfield-ky
+Cave City@@@cave-city-ky
+Hardinsburg@@@hardinsburg-ky
+Morgantown@@@morgantown-ky
+Irvine@@@irvine-ky
+Tompkinsville@@@tompkinsville-ky
+Eminence@@@eminence-ky
+Pioneer Village@@@pioneer-village-ky
+Hartford@@@hartford-ky
+Falmouth@@@falmouth-ky
+Russell Springs@@@russell-springs-ky
+Carlisle@@@carlisle-ky
+Louisa@@@louisa-ky
+Eddyville@@@eddyville-ky
+Anchorage@@@anchorage-ky
+Cadiz@@@cadiz-ky
+Calvert City@@@calvert-city-ky
+Fulton@@@fulton-ky
+Manchester@@@manchester-ky
+Horse Cave@@@horse-cave-ky
+Windy Hills@@@windy-hills-ky
+Sorgho@@@sorgho-ky
+Thruston@@@thruston-ky
+Whitesburg@@@whitesburg-ky
+Jackson@@@jackson-ky
+Greensburg@@@greensburg-ky
+Rineyville@@@rineyville-ky
+Cumberland@@@cumberland-ky
+Brooks@@@brooks-ky
+Albany@@@albany-ky
+Dawson Springs@@@dawson-springs-ky
+Lebanon Junction@@@lebanon-junction-ky
+Masonville@@@masonville-ky
+Mount Vernon@@@mount-vernon-ky
+Jamestown@@@jamestown-ky
+Warsaw@@@warsaw-ky
+Junction City@@@junction-city-ky
+Lewisport@@@lewisport-ky
+Owingsville@@@owingsville-ky
+Doe Valley@@@doe-valley-ky
+Liberty@@@liberty-ky
+Jeffersonville@@@jeffersonville-ky
+Dry Ridge@@@dry-ridge-ky
+Orchard Grass Hills@@@orchard-grass-hills-ky
+Edmonton@@@edmonton-ky
+Hickman@@@hickman-ky
+West Buechel@@@west-buechel-ky
+Raceland@@@raceland-ky
+Elk Creek@@@elk-creek-ky
+Breckinridge Center@@@breckinridge-center-ky
+Salyersville@@@salyersville-ky
+Elkton@@@elkton-ky
+Owenton@@@owenton-ky
+North Corbin@@@north-corbin-ky
+Beattyville@@@beattyville-ky
+Midway@@@midway-ky
+Hurstbourne Acres@@@hurstbourne-acres-ky
+Munfordville@@@munfordville-ky
+Catlettsburg@@@catlettsburg-ky
+Worthington Hills@@@worthington-hills-ky
+Jenkins@@@jenkins-ky
+Sturgis@@@sturgis-ky
+Pineville@@@pineville-ky
+Worthington@@@worthington-ky
+Taylorsville@@@taylorsville-ky
+Sebree@@@sebree-ky
+Auburn@@@auburn-ky
+Irvington@@@irvington-ky
+Ledbetter@@@ledbetter-ky
+Coal Run Village@@@coal-run-village-ky
+Harlan@@@harlan-ky
+St. Regis Park@@@st-regis-park-ky
+Pine Knot@@@pine-knot-ky
+Burkesville@@@burkesville-ky
+Silver Grove@@@silver-grove-ky
+Pewee Valley@@@pewee-valley-ky
+South Shore@@@south-shore-ky
+Vanceburg@@@vanceburg-ky
+Brodhead@@@brodhead-ky
+Olive Hill@@@olive-hill-ky
+Audubon Park@@@audubon-park-ky
+Beechwood Village@@@beechwood-village-ky
+Pleasureville@@@pleasureville-ky
+Whitley City@@@whitley-city-ky
+Wurtland@@@wurtland-ky
+Clarkson@@@clarkson-ky
+Coldstream@@@coldstream-ky
+Greenup@@@greenup-ky
+Guthrie@@@guthrie-ky
+Barbourmeade@@@barbourmeade-ky
+Augusta@@@augusta-ky
+Verona@@@verona-ky
+Plano@@@plano-ky
+Clinton@@@clinton-ky
+Northfield@@@northfield-ky
+Elkhorn City@@@elkhorn-city-ky
+Stearns@@@stearns-ky
+Muldraugh@@@muldraugh-ky
+West Van Lear@@@west-van-lear-ky
+Cloverport@@@cloverport-ky
+Bromley@@@bromley-ky
+Clay City@@@clay-city-ky
+Clay@@@clay-ky
+Dixon@@@dixon-ky
+Earlington@@@earlington-ky
+West Point@@@west-point-ky
+Hebron Estates@@@hebron-estates-ky
+Lewisburg@@@lewisburg-ky
+Burgin@@@burgin-ky
+Meadow Vale@@@meadow-vale-ky
+Campbellsburg@@@campbellsburg-ky
+South Wallins@@@south-wallins-ky
+Brownsville@@@brownsville-ky
+Goshen@@@goshen-ky

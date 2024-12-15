@@ -1,0 +1,121 @@
+﻿Honolulu@@@honolulu-hi
+Kailua@@@kailua-hi
+East Honolulu@@@east-honolulu-hi
+Hilo@@@hilo-hi
+Pearl City@@@pearl-city-hi
+Waipahu@@@waipahu-hi
+Kaneohe@@@kaneohe-hi
+Ewa Gentry@@@ewa-gentry-hi
+Mililani Town@@@mililani-town-hi
+Kahului@@@kahului-hi
+Kapolei@@@kapolei-hi
+Kihei@@@kihei-hi
+Mililani Mauka@@@mililani-mauka-hi
+Makakilo@@@makakilo-hi
+Schofield Barracks@@@schofield-barracks-hi
+Wahiawa@@@wahiawa-hi
+Ocean Pointe@@@ocean-pointe-hi
+Wailuku@@@wailuku-hi
+Halawa@@@halawa-hi
+Ewa Beach@@@ewa-beach-hi
+Royal Kunia@@@royal-kunia-hi
+Waianae@@@waianae-hi
+Waimalu@@@waimalu-hi
+Lahaina@@@lahaina-hi
+Maili@@@maili-hi
+Nanakuli@@@nanakuli-hi
+Hawaiian Paradise Park@@@hawaiian-paradise-park-hi
+Kapaa@@@kapaa-hi
+Waihee-Waiehu@@@waihee-waiehu-hi
+Waipio@@@waipio-hi
+Waimea@@@waimea-hi
+Hickam Housing@@@hickam-housing-hi
+Makaha@@@makaha-hi
+Aiea@@@aiea-hi
+Haiku-Pauwela@@@haiku-pauwela-hi
+Ahuimanu@@@ahuimanu-hi
+Lihue@@@lihue-hi
+Makawao@@@makawao-hi
+Waikoloa Village@@@waikoloa-village-hi
+Kula@@@kula-hi
+Waikele@@@waikele-hi
+Pukalani@@@pukalani-hi
+Kahaluu-Keauhou@@@kahaluu-keauhou-hi
+Napili-Honokowai@@@napili-honokowai-hi
+Ewa Villages@@@ewa-villages-hi
+Wailua Homesteads@@@wailua-homesteads-hi
+Wailea@@@wailea-hi
+Laie@@@laie-hi
+West Loch Estate@@@west-loch-estate-hi
+Iroquois Point@@@iroquois-point-hi
+Waipio Acres@@@waipio-acres-hi
+Waimanalo@@@waimanalo-hi
+Kahaluu@@@kahaluu-hi
+Heeia@@@heeia-hi
+Kalaheo@@@kalaheo-hi
+Haleiwa@@@haleiwa-hi
+Hanamaulu@@@hanamaulu-hi
+Pupukea@@@pupukea-hi
+Waimanalo Beach@@@waimanalo-beach-hi
+Hawaiian Beaches@@@hawaiian-beaches-hi
+Puhi@@@puhi-hi
+Captain Cook@@@captain-cook-hi
+Waikapu@@@waikapu-hi
+Ainaloa@@@ainaloa-hi
+Whitmore Village@@@whitmore-village-hi
+Hauula@@@hauula-hi
+Hawaiian Ocean View@@@hawaiian-ocean-view-hi
+East Kapolei@@@east-kapolei-hi
+Mountain View@@@mountain-view-hi
+Helemano@@@helemano-hi
+Kilauea@@@kilauea-hi
+Kaunakakai@@@kaunakakai-hi
+Waialua@@@waialua-hi
+Kurtistown@@@kurtistown-hi
+Hawaiian Acres@@@hawaiian-acres-hi
+Lanai City@@@lanai-city-hi
+Kekaha@@@kekaha-hi
+Kalaeloa@@@kalaeloa-hi
+Anahola@@@anahola-hi
+Orchidlands Estates@@@orchidlands-estates-hi
+Lawai@@@lawai-hi
+Holualoa@@@holualoa-hi
+Keokea@@@keokea-hi
+Wailua@@@wailua-hi
+Honaunau-Napoopoo@@@honaunau-napoopoo-hi
+Hanapepe@@@hanapepe-hi
+Paia@@@paia-hi
+Kahuku@@@kahuku-hi
+Wheeler Afb@@@wheeler-af-hi
+Koloa@@@koloa-hi
+Eleele@@@eleele-hi
+Pahala@@@pahala-hi
+Kealakekua@@@kealakekua-hi
+Maunawili@@@maunawili-hi
+Kapaau@@@kapaau-hi
+Kualapuu@@@kualapuu-hi
+Princeville@@@princeville-hi
+Honokaa@@@honokaa-hi
+Mokuleia@@@mokuleia-hi
+Fern Acres@@@fern-acres-hi
+Ko Olina@@@ko-olina-hi
+Kaloko@@@kaloko-hi
+Leilani Estates@@@leilani-estates-hi
+Pepeekeo@@@pepeekeo-hi
+Nanawale Estates@@@nanawale-estates-hi
+Kaumakani@@@kaumakani-hi
+Omao@@@omao-hi
+Pahoa@@@pahoa-hi
+Royal Hawaiian Estates@@@royal-hawaiian-estates-hi
+Hawi@@@hawi-hi
+Kaaawa@@@kaaawa-hi
+Keaau@@@keaau-hi
+Kaanapali@@@kaanapali-hi
+Mahinahina@@@mahinahina-hi
+Discovery Harbour@@@discovery-harbour-hi
+Laupahoehoe@@@laupahoehoe-hi
+Haliimaile@@@haliimaile-hi
+Punaluu@@@punaluu-hi
+Volcano Golf Course@@@volcano-golf-course-hi
+Wainaku@@@wainaku-hi
+Poipu@@@poipu-hi
